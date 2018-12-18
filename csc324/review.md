@@ -10,8 +10,8 @@ In Racket, `cons` is a functon, and so obeys eager evaluation. This means that a
 
 > we give the name thunk to any nullary function whose purpose is to delay the evaluation of its body expression.
 
-<img src="images/stream1.png" width=300px><br>
-<img src="images/stream2.png" width=300px>
+<img src="images/stream1.png" width=450px><br>
+<img src="images/stream2.png" width=450px>
 
 In Haskell, `cons` is already lazy. So in fact, the list data type in Haskell is actually a stream.
 
@@ -26,7 +26,7 @@ The continuation, a representation of the control flow at a given point in the e
 - In addition, if there is more than one arguments, `-<` stores a "choice point" that contains the remaining arguments so that they can be accessed, one at a time, by calling a separate function `next`.
 - Once all of the arguments have been evaluated, subsequent calls to `next` return `DONE`.
 
----
+
 ## Continuations
 For each subexpression `s`, we say that its **continuation** is a representation of what remains to be evaluated after `s` itself has been evaluated.
 
@@ -78,10 +78,47 @@ Every time we encounter a choice expression, we *push* the corresponding thunk o
 ```
 Here, we *automatically backtrack* on failures.
 
----
+
 # Type systems
 A **type system** is the set of rules in a programming language governing the semantics of types in the language.
 
 ---
-### **Strong** typing vs. **weak** typing
- In a `strongly-typed` language, every value has a fixed type at every point during the execution of a program.
+### `Strong` typing vs. `weak` typing
+In a `strongly-typed` language, every value has a fixed type at every point during the execution of a program.
+
+A `weakly-typed` language has no such guarantees: values can be implicitly interpreted as having a completely different type at runtime than what was originally intended, e.g. `"5" + 6` is semantically valid in many languages.
+
+---
+### `Static` typing vs. `dynamic` typing
+In a `statically-typed` language, the type of every expression is determined directly from the source code, before any code is actually executed.
+
+In contrast, `dynamically-typed` languages do not perform any type-checking until the program is run.
+
+---
+### The basics of Haskell's type system
+> One important difference between Haskell and Racket is that lists must contain values of the same type, so the expression `[True, 'a']` is rejected by Haskell. This also applies to `if then else` expression.
+
+---
+### Function types and currying
+Haskell treats **all** functions as unary functions, and that function application is indicated by simply seperating two expressions with a space.
+
+---
+### Algebraic data types
+We call types that are created using combinations of constructors and unions **algebraic data types**.
+
+---
+### Polymorphism I: type variables and generic polymorphism
+In programming language theory, **polymorphism** refers to the ability of an entity (e.g. function or class) to have valid behavior in contexts of different types.
+
+A **type variable** is an **identifier** in a type expression that can be instantiated to any type.
+
+A **type constructor** is a **function** that takes type variable(s) and creates a new type.
+
+For example, when we type-check the expression `head [True, False, False]`:
+1. Haskell determines that the type of the argument is `[Bool]`.
+2. Haskell matches the argument type `[Bool]` against the parameter type `[a]`, and instantiates the type variable `a = Bool` in the function type.
+3. Haskell takes the return type `a`, with `a` instantiated to `Bool`, to recover the final concrete type `Bool` for the return type.
+
+---
+### Generic polymorphism (in Haskell and beyond)
+In Haskell, lists are an example of **generic polymorphism**, a form of polymorphism in which an entity (e.g., function or class) behaves in the **same way** regardless of the type context. (e.g. list can store elements of any type. Similarly, almost every built-in list function is generic, meaning they operate on their input list regardless of what this input list contains.)

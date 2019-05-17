@@ -1,6 +1,5 @@
 # CheatBook
 “梦具有一种荒诞的真实性， 真实有一种真实的荒诞性。除了这种感觉上的差异， 他说不出这两者有什么区别。”
-—— 王小波
 
 ---
 ## 做梦1.0
@@ -30,3 +29,40 @@
 ---
 ### Python
 - [ ] Python Cookbook
+
+---
+## 做梦2.0
+### Mainland China
+
+---
+### Hong Kong
+
+---
+### Tai Wan
+
+---
+### Japan
+
+---
+### Korea
+
+---
+### Iran
+
+---
+### India
+
+---
+### France
+
+---
+### Poland
+
+---
+### Germany
+
+---
+### Spain
+
+--
+### Czech

@@ -94,5 +94,5 @@ deactivate
 
 > Reference:
 >
-> 1. UofT csc488 project a2 readme.md
+> 1. [UofT private repo csc488 project a2 readme.md](https://github.com/uoft-csc488/csc488h2019-team04/tree/master/a2)
 > 2. https://www.geeksforgeeks.org/python-virtual-environment/

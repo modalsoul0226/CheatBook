@@ -30,6 +30,13 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/maste
    brew install tmux
    ```
 
+5. Install `oh-my-tmux`:
+   ```bash
+   cd ~
+   git clone https://github.com/gpakosz/.tmux.git
+   ln -s -f .tmux/.tmux.conf
+   cp .tmux/.tmux.conf.local .
+   ```
 
 > References:
 > 
@@ -38,3 +45,6 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/maste
 > [2. Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
 > 
 > [3. tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
+> 
+> [4. oh-my-tmux](https://github.com/gpakosz/.tmux)
+> 

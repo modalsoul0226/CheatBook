@@ -61,7 +61,7 @@ Run tests with more details (higher verbosity):
 python -m unittest -v test_module
 ```
 
-### How to Use `unittest` and Flask
+### How to Use `unittest` in Flask
 Refer to [Flask Document: testing](http://flask.pocoo.org/docs/1.0/testing/).
 
 > References:

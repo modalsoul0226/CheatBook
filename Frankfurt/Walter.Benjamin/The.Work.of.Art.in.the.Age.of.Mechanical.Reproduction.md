@@ -1,4 +1,8 @@
-# The Work of Art in the Age of Mechanical Reproduction / 机械复制时代的艺术
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Roboto', sans-serif; font-weight: 300">
+
+# The Work of Art in the Age of Mechanical Reproduction / 机械复制时代的艺术 / Walter Benjamin
 
 ## Table of Contents
 1. [Foreword](#Foreword)
@@ -81,6 +85,9 @@ With the advent of the first truly revolutionary means of reproduction, art felt
 
 **Being reproducible by technological means frees the work of art, for the first time in history, from its existence as a parasite upon ritual.**
 
+
 The instant the criterion of genuineness in art production failed, the entire social function of art underwent an upheaval. Rather than being underpinned by ritual, it came to be underpinned by a different practice: **politics**.
 
 ## V
+
+</div>

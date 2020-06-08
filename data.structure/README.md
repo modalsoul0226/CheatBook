@@ -2,7 +2,7 @@
 
 ### Table of contents
 - [Linked List](linked.list.md)
-- [Stack]()
+- [Stack](stack.md)
 - [Queue]()
 - [Heap]()
 ---

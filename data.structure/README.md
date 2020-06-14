@@ -2,8 +2,8 @@
 
 ### Table of contents
 - [Linked List](linked.list.md)
-- [Stack](stack.md)
-- [Queue]()
+- [Stack](stack.queue.md)
+- [Queue](stack.queue.md)
 - [Heap]()
 ---
 - [Tree]()

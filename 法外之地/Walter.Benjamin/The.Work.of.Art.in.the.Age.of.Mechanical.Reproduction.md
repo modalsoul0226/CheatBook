@@ -39,7 +39,7 @@ Technological reproduction of the work of art is something else, something that 
 - Mere decades after - photography - in the process of pictorial reproduction the ***hand*** was for the first time relieved of the principal artistic responsibilities.
 
 <div align="center">
-<img width=500 src="../../assets/images/the_image_book.jpg">
+<img width=500 src="assets/images/the_image_book.jpg">
 </div></br>
 
 Around 1900 technological reproduction had reached a standard at which it had not merely begun to take the totality of tradition artworks as its province, imposing the most profound changes on the impact of such works; it had even gained a place for itself among artistic modes of procedure.

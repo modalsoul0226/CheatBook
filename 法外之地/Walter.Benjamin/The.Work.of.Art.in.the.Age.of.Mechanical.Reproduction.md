@@ -205,6 +205,21 @@ The **close-up** expands space as the **slow-motion** sequence dilates movement.
 ## XIV
 It has always been among art's most important functions to generate a **demand** for whose full satisfaction the time has not yet come. The history of every art form has critical periods in which **that form strives for effects that are able to find expression without effort only when technology has reached a new level** - that is to say, in a new art form. (e.g. **Daddaism** was trying to generate the effects that people now look for in film, but using the tools of painting (sometimes literature).
 
-Any radically new, pioneering generation of **demands** will go too far. **Dadaism** does so to the point of **scrificing the market values** that film possesses in such abundance in favour of more significant intention. The commercial marketability of their works of art meant far less to the Dadaists than their **non-marketability**, that unrealizable quality, not least **by fundamentally disparaging their material**. 
+Any radically new, pioneering generation of demands will go too far. Dadaism does so to the point of scrificing the market values that film possesses in such abundance in favour of more significant intention. **The commercial marketability of their works of art meant far less to the Dadaists than their non-marketability as objects of contemplative immersion**, that unrealizable quality, not least by fundamentally disparaging their material. What they achieve by such means is the **ruthless destruction of the aura** of their output, which they use the means of production to stamp as 'reproduction'.
+
+Dadaist demonstrations did indeed constitute a very violent diversion in that they placed the work of art at the centre of a scandal. That work had above all to meet one requirement: it must provide **public irritation**. In the hands of the Dadaists the work of art from being a sight that seduced the eye or a sound that persuaded the ear, became a **bullet**.
+
+Painting invites the viewer to contemplate; he is able, in front of it, to give himself up to his chain of associations. Watching a film, he cannot do this. Scarecely has he set eyes on it before it is already different. It cannot be pinned down.
+
+## XV
+Tha mass is a matrix from which currently all customary response to works of art are springing newborn. Quantity has now become quality: the very much greater masses of participants have produced a changed kind of participation.
+
+Such participation initially appears in a disreputable form. Duhamel has spoken most radically. What he blames film for mainly is the nature of the participation it arouses amongst the masses. Clearly, this is at bottom the old charge that the masses are looking for **distraction** whereas art calls for **immersion** on the viewer's part.
+
+Distraction and immersion constitute opposites, enabling us to say this: The person who stands in contemplation before a work of art immerses himself in it; The distracted mass, on the other hand, absorbs the work of art into itself.
+
+**Architecture** has always provided the prototype of a work of art that is received in a state of distraction and by the collective. Buildings have been with mankind since its earliest history. Many forms of art have come and gone (e.g. tragedy, epic, panel painting). The art of building has never lain fallow. Its history is longer than that of any other art, and imaginatively recalling its effect is important as regards any attempt to form a conclusion about how the masses relate to art.
+
+Buildings are received twofold: through how they are used and how they are perceived i.e. in a tactile fashion and in an optical fashion.
 
 </div>

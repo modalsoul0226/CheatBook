@@ -220,6 +220,6 @@ Distraction and immersion constitute opposites, enabling us to say this: The per
 
 **Architecture** has always provided the prototype of a work of art that is received in a state of distraction and by the collective. Buildings have been with mankind since its earliest history. Many forms of art have come and gone (e.g. tragedy, epic, panel painting). The art of building has never lain fallow. Its history is longer than that of any other art, and imaginatively recalling its effect is important as regards any attempt to form a conclusion about how the masses relate to art.
 
-Buildings are received twofold: through how they are used and how they are perceived i.e. in a tactile fashion and in an optical fashion.
+Buildings are received twofold: through how they are used and how they are perceived i.e. in a tactile fashion and in an optical fashion. The fact is, there is no counterpart
 
 </div>

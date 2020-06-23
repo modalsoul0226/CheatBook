@@ -4,9 +4,9 @@
 - [Linked List](linked.list.md)
 - [Stack](stack.queue.md)
 - [Queue](stack.queue.md)
-- [Heap]()
+- [Heap](heap.md)
 ---
-- [Tree]()
+- [Tree](tree.md)
 - [Binary Tree]()
 - [Binary Search Tree]()
 - [Trie]()

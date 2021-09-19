@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6b20a229138564db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7846f99de600382a",
+        "type": "leaf",
+        "dimension": 67.73074253990285,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+            "mode": "preview"
+          }
+        },
+        "group": "39010df69775de4b"
+      },
+      {
+        "id": "527a3296fe41a93d",
+        "type": "leaf",
+        "dimension": 32.26925746009716,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.3095974713989051,
+              "close": false
+            }
+          }
+        },
+        "group": "39010df69775de4b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9b7cfdd64fa4590",
+    "type": "split",
+    "children": [
+      {
+        "id": "f658a4a166dfa46f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e201c427116e9a7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "610c1399077ffa1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#meta",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "0333010bcb69c00d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5e0b1d22b6e33a",
+        "type": "tabs",
+        "dimension": 43.394077448747154,
+        "children": [
+          {
+            "id": "9c051f14cbeedf39",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8499d45318a8a70f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2aa495f447735287",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e9c8a75d45d0bcdd",
+        "type": "tabs",
+        "dimension": 56.60592255125285,
+        "children": [
+          {
+            "id": "3911aa92a8efb980",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aca912d772601286",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "active": "7846f99de600382a",
+  "lastOpenFiles": [
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Idea.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Untitled.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/concepts/Aura.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Untitled.md",
+    "Philosophy/Concepts/Historical Materialism.md",
+    "Philosophy/Philosophers/1950/Giorgio Agamben.md",
+    "Philosophy/School/Critical Theory.md"
+  ]
+}

@@ -6,24 +6,21 @@
       {
         "id": "7846f99de600382a",
         "type": "leaf",
-        "dimension": 67.73074253990285,
+        "dimension": 75.15614156835531,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         },
-        "group": "39010df69775de4b"
+        "group": "1d31531186902d83"
       },
       {
-        "id": "527a3296fe41a93d",
+        "id": "333bcd57cccbeaab",
         "type": "leaf",
-        "dimension": 32.26925746009716,
+        "dimension": 24.84385843164469,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+            "file": "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,12 +43,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.3095974713989051,
+              "scale": 1,
               "close": false
             }
           }
         },
-        "group": "39010df69775de4b"
+        "group": "1d31531186902d83"
       }
     ],
     "direction": "vertical"
@@ -78,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meta",
+                "query": "tag:#meta/concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +97,7 @@
       {
         "id": "9a5e0b1d22b6e33a",
         "type": "tabs",
-        "dimension": 43.394077448747154,
+        "dimension": 62.19281663516069,
         "children": [
           {
             "id": "9c051f14cbeedf39",
@@ -135,7 +132,7 @@
       {
         "id": "e9c8a75d45d0bcdd",
         "type": "tabs",
-        "dimension": 56.60592255125285,
+        "dimension": 37.80718336483932,
         "children": [
           {
             "id": "3911aa92a8efb980",
@@ -143,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +170,15 @@
   },
   "active": "7846f99de600382a",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Idea.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Untitled.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/concepts/Aura.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Untitled.md",
-    "Philosophy/Concepts/Historical Materialism.md",
-    "Philosophy/Philosophers/1950/Giorgio Agamben.md",
-    "Philosophy/School/Critical Theory.md"
+    "Philosophy/Philosophers/1900/Walter Benjamin/concepts/Aura.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Idea.md"
   ]
 }

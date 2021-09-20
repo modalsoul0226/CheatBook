@@ -1,4 +1,5 @@
 ---
+name: The Work of Art in the Age of Mechanical Reproduction
 author: Walter Benjamin
 year: 1935
 tags: art/photography, art/cinema, philosophy/marxism, meta/work
@@ -10,30 +11,17 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 <div style="font-family: 'Roboto', sans-serif; font-weight: 300">
 
 # The Work of Art in the Age of Mechanical Reproduction / 机械复制时代的艺术
-
+> Author: [[Walter Benjamin]]
+> Year: 1935
+	
 ## Contents
-- [Foreword](#Foreword)
-- [Chapter I](#I)
-- [Chapter II](#II)
-- [Chapter III](#III)
-- [Chapter IV](#IV)
-- [Chapter V](#V)
-- [Chapter VI](#VI)
-- [Chapter VII](#VII)
-- [Chapter VIII](#VIII)
-- [Chapter IX](#IX)
-- [Chapter X](#X)
-- [Chapter XI](#XI)
-- [Chapter XII](#XII)
-- [Chapter XIII](#XIII)
-- [Chapter XIV](#XIV)
-- [Chapter XV](#XV)
-- [Afterword](#Afterword)
+
+```toc
+```
 
 ---
 
-## Foreword
-> **Development of Physical Component**
+## Foreword / Development of Physical Component
 
 - In all arts there is a **physical component** that cannot continue to be considered and treated in the same way as before.
 	- Neither matter nor **space** nor **time** is what, up until twenty years ago, it always was. We must be prepared for such profound changes to alter the entire technological aspect of the arts, influencing invention itself as a result.
@@ -43,12 +31,11 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 
-## I
-> **History of Mechanical Reproduction**
+## I / History of Mechanical Reproduction
 
 - In principle, the work of art has **always** been reproducible. What man has made, man has always been able to make again...
 
-- Technological reproduction has been practised intermittently throughout history, at **widely separated intervals** though **with growing intensity**:
+- ([[Technology]]) Technological reproduction has been practised intermittently throughout history, at **widely separated intervals** though **with growing intensity**:
 	- Ancient Greeks - casting and embossing: bronzes, terracotta and coins.
 	- wood engraving: made graphic art technologically reproducible for the first time.
 	- Middle age - copperplate engraving and etching.
@@ -63,8 +50,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 	
-## II
-> **Here and Now / Genuineness / Aura**
+## II / Here and Now / Genuineness / Aura
 	
 - The **here** and **now** of the work of art -- its unique existence in the place where it is at this moment.
 	- history: 
@@ -93,8 +79,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 
-## III
-> **Social Conditions of the Fading of Aura**
+## III / Social Conditions of the Fading of Aura
 
 - Within major historical periods, along with changes in the overall mode of being of the human collective, there are also changes in the manner of its **sense perception**.
 	- The scholars of the Vienna School, Riegl and Wickhoff ... content themselves with revealing the **formal signature** that characterized perception in the late-Roman period. They did not try to reveal the <mark>social upheavals</mark> that found expression in those changes of perception.
@@ -113,8 +98,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 
-## IV
-> **Uniqueness and Ritual**
+## IV / Uniqueness and Ritual
 
 - <mark>The uniqueness of the work of art is identical with its embeddedness in the context of tradition.</mark>
 	- Tradition itself is ... very much *alive*, ... *extraordinarily changeable*. e.g. A classical statue of Venus occupied a different traditional context for Greeks than for medieval clerics.
@@ -132,8 +116,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## V
-> **Cultic Value vs. Display Value**
+## V / Cultic Value vs. Display Value
 
 - Works of art are received and appreciated with different points of emphasis: 
 	- **cultic value**: the work's presence is more important than the fact that it is seen.
@@ -147,8 +130,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 	
-## VI
-> The Advent of Photogrpahy and Film
+## VI / The Advent of Photogrpahy and Film
 > #art/photography, #art/cinema 
 
 - In photography, display value starts to drive cultic value back along the whole line.
@@ -162,8 +144,8 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## VII
-> **Alteration in the Function of Art**
+## VII / Alteration in the Function of Art
+
 - The clash fought out during the nineteenth century as painting and photography disputed the artistic merits of their respective products was the expression of a **historical upheaval**.
 	- <mark>The age where art became reproducible by technological means, in setting it free from its cultic roots, extinguished the light of its autonomy for ever.</mark> Yet the alteration in the function of art thus engendered dropped from the century's field of view.
 	- Much wisdom had already been thrown away on trying to decide whether photography was an art (**without asking the prior question: whether, with the invention of photography, the very nature of art had undergone a chnage**), but before long the theoreticians of film were asking a similarly hasty question.
@@ -175,8 +157,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 	
-## VIII
-> **Stage Actor vs. Screen Actor**
+## VIII / Stage Actor vs. Screen Actor
 > #art/theatre, #art/cinema 
 	
 - The artistic performance the **stage actor** is presented to the audience by the actor **in person**.
@@ -191,11 +172,10 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 	
-## IX
-> **The Aura of an Actor**
+## IX / The Aura of an Actor
 > #art/theatre, #art/cinema 
 	
-> "The screen actor," [Pirandello](https://www.wikiwand.com/en/Luigi_Pirandello) writes, "feels as if exiled. Exiled not only from the stage but from his own person. With dim disquiet he senses the inexplicable emptiness that results from his body becoming a withdrawal symptom, from its dissipating and being robbed of its reality, its life, its voice, and the sound it makes by moving around, reduced to a mute image that flickers on the screen for an instant, then disappears into thin air ..."
+> "The screen actor," [[Luigi Pirandello]] writes, "feels as if exiled. Exiled not only from the stage but from his own person. With dim disquiet he senses the inexplicable emptiness that results from his body becoming a withdrawal symptom, from its dissipating and being robbed of its reality, its life, its voice, and the sound it makes by moving around, reduced to a mute image that flickers on the screen for an instant, then disappears into thin air ..."
 
 - **For the first time a person is placed in the position, while operating with his whole being, of having to dispense with the aura that goes with it.** For that aura is bound to his **here and now**, it has no replica.
 	- The aura surrounding Macbeth onstage cannot, for the live audience, be detached from the aura that surrounds the actor playing him. But when filming in studio, the audience is replaced by a piece of equipments. The aura surrounding the player must thus be lost - and with it, at the same time, the aura around the character played.
@@ -208,11 +188,10 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 	
-## X
-> **The Commodity Character of Cinema**
+## X / The Commodity Character of Cinema
 > #art/cinema 
 
-- The actor's alienation in front of the film camera, as Pirandello describes it, is inherently of the same sort as a person's feeling of surprise and displeasure when confronted with his mirror-image.
+- The actor's alienation in front of the film camera, as [[Luigi Pirandello|Pirandello]] describes it, is inherently of the same sort as a person's feeling of surprise and displeasure when confronted with his mirror-image.
 
 - Film's response to the shrivelling of aura is an artificial inflation of 'personality' outside the studio. The cult of stardom promoted by film capital preserves the magic of personality that for years has lain solely in the rancid magic of its **commodity character** ([[Commodity Fetishism]]).
 
@@ -225,8 +204,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 ---
 
-## XI
-> **Camera and Reality**
+## XI / Camera and Reality
 > #art/cinema, #art/photography
 	
 - A film, particularly a sound film, portrays an event that can no longer be assigned to a single standpoint from which things not strictly belonging to the performance process as such (camera, lighting equipment, crew and so on) would not fall within the spectator's field of view.
@@ -243,8 +221,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## XII
-> **Mass and Art**
+## XII / Mass and Art
 
 - The fact that the work of art can now be reproduced by technological means **alters the relationship of the mass to art**. From being very backward (faced with a Picasso), it has become extremely progressive (given Chaplin).
 
@@ -258,8 +235,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## XIII
-> **The Optical Unconscious**
+## XIII / The Optical Unconscious
 > #art/cinema, #philosophy/psychoanalysis
 	
 - Film has indeed enriched our perceptual world with methods that can be illustrated by those of **Freudian** theory.
@@ -276,8 +252,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## XIV
-> **Dadaism and Film**
+## XIV / Dadaism and Film
 > #art/fine-art, #art/cinema 
 
 - It has always been among art's most important functions to generate a **demand** for whose full satisfaction the time has not yet come. The history of every art form has critical periods in which **that form strives for effects that are able to find expression without effort only when technology has reached a new level** - that is to say, in a new art form. (e.g. **[[Daddaism]]** was trying to generate the effects that people now look for in film, but using the tools of painting (sometimes literature).
@@ -290,8 +265,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## XV
-> **Art and the State of Distraction**
+## XV / Art and the State of Distraction
 > #art/architecture 
 	
 - Tha mass is a matrix from which currently all customary response to works of art are springing newborn. <mark>Quantity has now become quality: the very much greater masses of participants have produced a changed kind of participation.</mark>
@@ -314,8 +288,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 ---
 	
-## Afterword
-> **Fascism / Aestheticization of Politics and Politicization of Art**
+## Afterword / Fascism / Aestheticization of Politics and Politicization of Art
 
 - Fascism seeks to organize the newly emergent proletarianized masses without touching the property relations that those masses are so urgently trying to abolish.
 

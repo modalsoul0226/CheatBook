@@ -2,6 +2,7 @@
   "calendar",
   "obsidian-minimal-settings",
   "obsidian-mind-map",
-  "obsidian-plugin-toc",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "dataview",
+  "obsidian-dynamic-toc"
 ]

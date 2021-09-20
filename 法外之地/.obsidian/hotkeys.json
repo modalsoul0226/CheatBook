@@ -14,5 +14,13 @@
       ],
       "key": "P"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
   ]
 }

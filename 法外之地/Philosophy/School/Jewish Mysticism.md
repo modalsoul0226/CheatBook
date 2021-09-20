@@ -1,3 +1,0 @@
----
-tags: meta/school
----

@@ -7,7 +7,7 @@ tags: meta/work
 aliases: [克力同, 格黎东篇]
 ---
 
-# Crito / 克力同
+# Crito / 克力同 / 论法律与正义
 > Author: [[Plato]]
 > Year: 399 BC
 

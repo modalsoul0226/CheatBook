@@ -6,23 +6,26 @@
       {
         "id": "7846f99de600382a",
         "type": "leaf",
-        "dimension": 75.15614156835531,
+        "dimension": 53.16973415132924,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+            "mode": "preview"
+          }
         },
         "group": "1d31531186902d83"
       },
       {
         "id": "333bcd57cccbeaab",
         "type": "leaf",
-        "dimension": 24.84385843164469,
+        "dimension": 46.83026584867075,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
+            "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
             "options": {
-              "collapse-filter": true,
+              "collapse-filter": false,
               "search": "",
               "localJumps": 1,
               "localBacklinks": true,
@@ -44,7 +47,7 @@
               "linkStrength": 1,
               "linkDistance": 250,
               "scale": 1,
-              "close": false
+              "close": true
             }
           }
         },
@@ -75,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meta/concept",
+                "query": "tag:#philosophy/literary-theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e9c8a75d45d0bcdd",
@@ -140,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,19 +170,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 214.5
   },
-  "active": "7846f99de600382a",
+  "active": "333bcd57cccbeaab",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
+    "Philosophy/School/Marxism.md",
+    "Templates/Work.md",
+    "Templates/People.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Untitled.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/concepts/Aura.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/concepts/Idea.md"
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md"
   ]
 }

@@ -7,7 +7,7 @@ tags: meta/work
 aliases: [游叙弗伦, 欧悌甫戎篇]
 ---
 
-# Euthyphro / 游叙弗伦
+# Euthyphro / 游叙弗伦 / 论虔诚
 > Author: [[Plato]]
 > Year: 399 BC
 

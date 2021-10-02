@@ -4,11 +4,8 @@ aliases: [alias1, alias2]
 ---
 
 # Contents
-- [Overview](#overview)
-- [Influences](#influences)
-- [Key Concepts](#concepts)
-- [Biography](#biography)
-- [Bibliography](#bibliography)
+```toc
+```
 
 ---
 

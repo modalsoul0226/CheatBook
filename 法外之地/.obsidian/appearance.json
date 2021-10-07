@@ -1,5 +1,8 @@
 {
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "mark"
+  ]
 }

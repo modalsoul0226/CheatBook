@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7846f99de600382a",
+        "id": "a0071ba288735b6e",
         "type": "leaf",
-        "dimension": 53.16973415132924,
+        "dimension": 62.69177126917713,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
             "mode": "preview"
           }
         },
-        "group": "1d31531186902d83"
+        "group": "6e9785de2e8d86ec"
       },
       {
-        "id": "333bcd57cccbeaab",
+        "id": "bccdbba123ba435e",
         "type": "leaf",
-        "dimension": 46.83026584867075,
+        "dimension": 37.308228730822876,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "",
-              "localJumps": 1,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -47,11 +47,11 @@
               "linkStrength": 1,
               "linkDistance": 250,
               "scale": 1,
-              "close": true
+              "close": false
             }
           }
         },
-        "group": "1d31531186902d83"
+        "group": "6e9785de2e8d86ec"
       }
     ],
     "direction": "vertical"
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#philosophy/literary-theory",
+                "query": "tag:#art/cinema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e9c8a75d45d0bcdd",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,19 +171,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 238.5
   },
-  "active": "333bcd57cccbeaab",
+  "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Philosophy/School/Marxism.md",
-    "Templates/Work.md",
-    "Templates/People.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Laches.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md"
+    "Templates/Footnote.md",
+    "Templates/Untitled.md"
   ]
 }

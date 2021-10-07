@@ -2,7 +2,7 @@
 name: The Work of Art in the Age of Mechanical Reproduction
 author: Walter Benjamin
 year: 1935
-tags: art/photography, art/cinema, philosophy/marxism, meta/work
+tags: art/photography, art/cinema, philosophy/marxism, philosophy/art-criticism, meta/work
 aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时代的艺术]
 ---
 
@@ -63,8 +63,8 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 		1. A technological reproduction is **more autonomous**. For example, through photography, it is able to employ techniques like enlargement or slow motion to capture images that are quite simply byond natural optics.
 		2. It can place the copy of the original in situations **beyond the reach of the original itself**. Above all, it makes it possible for the original to come closer to the person taking it in.
 
-- The <span style="color:MediumVioletRed">genuineness</span> of a thing is the quintessence of everything about it since its creation that can be handed down, from its <span style="color:DeepSkyBlue">material duration</span> to the <span style="color:DeepSkyBlue">historical witness</span> that it bears.
-	- The <span style="color:DeepSkyBlue">later</span> is grounded in the <span style="color:MediumVioletRed">former</span>. What happens in the reproduction, where the <span style="color:MediumVioletRed">former</span> has been removed from human perception, is that the <span style="color:DeepSkyBlue">latter</span> also starts to wobble.
+- The <strong>genuineness</strong> of a thing is the quintessence of everything about it since its creation that can be handed down, from its <strong>material duration</strong> to the historical witness that it bears.
+	- The later is grounded in the former. What happens in the reproduction, where the former has been removed from human perception, is that the latter also starts to wobble.
 	- The **authority** of the thing starts to wobble.
 
 - What shrinks in an age where the work of art can be reproduced by technological means is its [[Aura]].
@@ -86,11 +86,11 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 - If changes in the medium of perception occurring in our own day may be understood as a **fading of aura**, the <mark>social conditions</mark> of that fading can be demonstrated.
 
-- <strong style="color:DarkMagenta">Aura</strong>: **a unique manifestation of a remoteness, however close it may be**.
+- <strong>Aura</strong>: **a unique manifestation of a remoteness, however close it may be**.
 
 - The **fading** has to do with two circumstances, both of which are connected with the <mark>increasing significance of the masses</mark> in present-day life:
-	1. <strong style="color:orange">'Getting closer to things' in both social and human terms.</strong>
-	2. <strong style="color:MediumVioletRed">Surmount the uniqueness of each circumstances by seeing it in reproduction.</strong>
+	1. <strong>'Getting closer to things' in both social and human terms.</strong>
+	2. <strong>Surmount the uniqueness of each circumstances by seeing it in reproduction.</strong>
 
 - The orientation of reality toward the masses and of the masses toward reality is a process of unbounded consequence not only for thought but also for the way we see things.
 
@@ -214,7 +214,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 - The Magician–Surgeon Analogy
 	- The **magician matains the natural distance between himself and the patient**; to be precise, he reduces it only slightly (by virtue of laying-on of hands) while increasing it (by virtue of his authority) hugely. **The surgeon does the opposite**: he reduces the distance to the patient a great deal (by actually going inside him) and increases it only a little (through the care with which his hand moves among the latter's organ).
-		- **Unlike the magician, the surgeon abstains at the crucial moment from facing his invalid person to person, invading him sugically instead.**
+		- <u>Unlike the magician, the surgeon abstains at the crucial moment from facing his invalid person to person, invading him sugically instead.</u>
 	- The **painter**, while working, **observes a natural distance from the subject**; the **cameraman**, on the other hand, **penetrates deep into the subject's tissue**. The images they both come up with are enormously different. The painter's is an **entity**, the cameraman's chopped up into a large number of **pieces**, which find their way back together by following a new law. This is why filmic portrayal of reality is of such incomparably greater significance to people today, because it continues to provide the camera-free aspect of reality that they are entitled to demand of a work of art precisely by using the camera to penetrate that reality so thoroughly.
 
 [back to top](#contents)

@@ -10,7 +10,7 @@
   "monoFont": "Menlo,SFMono-Regular,Consolas,Roboto Mono,monospace",
   "lineWidth": 40,
   "maxWidth": 88,
-  "textNormal": 20,
+  "textNormal": 16,
   "textSmall": 15,
   "fancyCursor": true,
   "trimNames": true,

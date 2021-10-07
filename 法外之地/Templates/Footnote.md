@@ -1,0 +1,1 @@
+<sup><a class="internal-link" href="#注释">1</a></sup>

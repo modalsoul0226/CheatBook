@@ -1,7 +1,9 @@
 ---
-name: 
+title: 
 author: 
+series:
 translator: 
+publisher:
 year: 
 tags:
 aliases: 

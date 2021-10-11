@@ -59,6 +59,33 @@ u:hover {
     text-decoration: none;
 }
 
+em {
+    /* font-family: 'Kaiti SC', sans-serif;
+    font-size: 18px;*/
+    font-weight: bold;
+    font-style: unset;
+    -webkit-text-emphasis-style: dot;
+    text-emphasis-style: dot;
+    -webkit-text-emphasis-position: under;
+    text-emphasis-position: under;
+}
+
 sup > .internal-link {
     text-decoration: none !important;
+}
+
+.ellipsis {
+    text-align: center;
+}
+
+.title {
+    font-style: italic;
+}
+
+/* em {
+    font-family: 'Athelas', sans-serif;
+} */
+
+li > p {
+    line-height: 2rem;
 }

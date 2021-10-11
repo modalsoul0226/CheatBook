@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
+            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
             "mode": "preview"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
+            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.1606577807725307,
               "close": false
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#art/cinema",
+                "query": "tag:#philosophy/metaphysics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
+                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
+                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +175,15 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
+    "Templates/Snippets/Untitled.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Literature/1950/Roberto Bolano/works/The Savage Detectives/characters.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Laches.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
-    "Templates/Footnote.md",
-    "Templates/Untitled.md"
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md"
   ]
 }

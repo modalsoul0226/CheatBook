@@ -25,7 +25,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 
 - In all arts there is a **physical component** that cannot continue to be considered and treated in the same way as before.
 	- Neither matter nor **space** nor **time** is what, up until twenty years ago, it always was. We must be prepared for such profound changes to alter the entire technological aspect of the arts, influencing invention itself as a result.
-	- Eventually, it may be, contriving to **alter the very concept of art** in the most magical fashion. (Paul Valery, *Pieces sur l'art*)
+	- Eventually, it may be, contriving to **alter the very concept of art** in the most magical fashion. (Paul Valery, <span class="title">Pieces sur l'art</span>)
 
 [back to top](#contents)
 
@@ -239,7 +239,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 > #art/cinema, #philosophy/psychoanalysis
 	
 - Film has indeed enriched our perceptual world with methods that can be illustrated by those of **Freudian** theory.
-	- Fifty years ago, a conversational slip went more or less unnoticed. Its suddenly revealing depths in what had previously seemed a superficial discussion was probably regarded as an exception. Since *The Psychopathology of Everyday Life* [1901], that has changed.
+	- Fifty years ago, a conversational slip went more or less unnoticed. Its suddenly revealing depths in what had previously seemed a superficial discussion was probably regarded as an exception. Since <span class='title'>The Psychopathology of Everyday Life</span> [1901], that has changed.
 
 - Film has resulted in a similar deepening of appreciation across the whole optical (and now also acoustic) segment of the sensory world.
 	- Compared with painting, it is the infinitely **more detailed presentation** of the situation that gives the performance portrayed on the screen its **greater analysability**. Compared with live theatre, the greater analysability of the performance portrayed cinematically is due to a **higher degree of isolability**.
@@ -308,7 +308,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	- Humanity, which in Homer's day provided a spectacle for the gods of Olympus, has now become one for itself.
 	- Its alienation from itself has reached a point where it now allows its own destruction to be savoured as an aesthetic pleasure of the first order.
 
-- Given the kind of aestheticization of politics that Fascism pursues, Communism's reply is to politicize art.
+- Given the kind of [[Aestheticization of Politics|aestheticization of politics]] that Fascism pursues, Communism's reply is to politicize art.
 	
 [back to top](#contents)
 	

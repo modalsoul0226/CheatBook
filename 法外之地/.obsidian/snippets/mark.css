@@ -1,12 +1,3 @@
-/* dataview */
-.table-view-table > tbody > tr > td {
-    text-align: center !important;
-}
-
-.markdown-preview-view th {
-    text-align: center !important;
-}
-
 /* image */
 img {
     left: 50%;
@@ -22,21 +13,6 @@ blockquote {
 .quote {
     font-family: Kaiti SC, sans-serif;
     font-size: 18px;
-}
-
-/* title */
-h1, h2, h3, h4, h5, h6 {
-    text-align: center;
-}
-
-/* table of content */
-.dynamic-toc {
-    text-align: center;
-}
-
-.dynamic-toc ul {
-    list-style-type: none;
-    padding-inline-start: 0;
 }
 
 /* link styles */
@@ -80,13 +56,4 @@ sup > .internal-link {
 
 .title {
     font-style: italic;
-}
-
-/* em {
-    font-family: 'Athelas', sans-serif;
-} */
-
-li > p {
-    line-height: 2rem;
-    /* margin-bottom: 1.5rem; */
 }

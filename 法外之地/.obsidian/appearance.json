@@ -3,6 +3,7 @@
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "mark"
+    "mark",
+    "layout"
   ]
 }

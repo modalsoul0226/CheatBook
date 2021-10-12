@@ -1,4 +1,4 @@
 ---
 tags: meta/concept
-aliases: [理念, 相]
+aliases: [理念]
 ---

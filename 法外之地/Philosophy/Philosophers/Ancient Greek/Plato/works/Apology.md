@@ -3,7 +3,7 @@ name: Apology
 author: Plato
 translator: 王太庆
 year: 399 BC
-tags: meta/work, philosophy/ancient-greek
+tags: meta/work/book/dialogue, philosophy/ancient-greek
 aliases: [苏格拉底的申辩, 申辩篇]
 ---
 

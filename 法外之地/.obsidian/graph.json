@@ -8,13 +8,6 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Philosophy/Philosophers/1900/Walter Benjamin\"",
-      "color": {
-        "a": 1,
-        "rgb": 6608476
-      }
-    },
-    {
       "query": "path:Philosophy/School",
       "color": {
         "a": 1,
@@ -29,10 +22,17 @@
       }
     },
     {
-      "query": "path:Philosophy/Philosophers/Ancient Greek/",
+      "query": "tag:#meta/people/philosopher",
       "color": {
         "a": 1,
-        "rgb": 13210258
+        "rgb": 3202884
+      }
+    },
+    {
+      "query": "tag:#meta/people/writer",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 9.13289835164835,
   "linkStrength": 1,
   "linkDistance": 259,
-  "scale": 0.6324336477934104,
+  "scale": 0.6837274059249981,
   "close": false
 }

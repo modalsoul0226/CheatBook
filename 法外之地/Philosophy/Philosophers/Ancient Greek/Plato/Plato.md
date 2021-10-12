@@ -28,6 +28,6 @@ aliases: [柏拉图]
 
 ```dataview
 table year
-from "Philosophy/Philosophers/Ancient Greek/Plato/works"
+from #meta/work and "Philosophy/Philosophers/Ancient Greek/Plato"
 sort year asc
 ```

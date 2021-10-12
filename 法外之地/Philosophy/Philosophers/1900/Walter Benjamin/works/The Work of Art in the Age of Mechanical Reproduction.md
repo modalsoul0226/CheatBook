@@ -2,7 +2,7 @@
 name: The Work of Art in the Age of Mechanical Reproduction
 author: Walter Benjamin
 year: 1935
-tags: art/photography, art/cinema, philosophy/marxism, philosophy/art-criticism, meta/work
+tags: art/photography, art/cinema, philosophy/marxism, philosophy/art-criticism, meta/work/book/essay
 aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时代的艺术]
 ---
 
@@ -24,7 +24,9 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 ## Foreword / Development of Physical Component
 
 - In all arts there is a **physical component** that cannot continue to be considered and treated in the same way as before.
+	
 	- Neither matter nor **space** nor **time** is what, up until twenty years ago, it always was. We must be prepared for such profound changes to alter the entire technological aspect of the arts, influencing invention itself as a result.
+	
 	- Eventually, it may be, contriving to **alter the very concept of art** in the most magical fashion. (Paul Valery, <span class="title">Pieces sur l'art</span>)
 
 [back to top](#contents)
@@ -36,15 +38,22 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 - In principle, the work of art has **always** been reproducible. What man has made, man has always been able to make again...
 
 - ([[Technology]]) Technological reproduction has been practised intermittently throughout history, at **widely separated intervals** though **with growing intensity**:
+	
 	- Ancient Greeks - casting and embossing: bronzes, terracotta and coins.
+	
 	- wood engraving: made graphic art technologically reproducible for the first time.
+	
 	- Middle age - copperplate engraving and etching.
+	
 	- Early nineteenth century - lithography
+	
 	- Mere decades after - photography - in the process of pictorial reproduction the ***hand*** was for the first time relieved of the principal artistic responsibilities.
 
 ![image-book](https://criterion-production.s3.amazonaws.com/xpJzxC3KGLNkBjQu3UYoFw6YU2GTJj.png)
 
-- Around 1900 **technological reproduction** had reached a standard at which it had not merely begun to take the totality of tradition artworks as its province, imposing the most profound changes on the impact of such works; it had **even gained a place for itself among artistic modes of procedure**.
+- Around 1900 **technological reproduction** had reached a standard at which it had not merely begun to take the totality of tradition artworks as its province, imposing the most profound changes on the impact of such works. 
+
+	- It had **even gained a place for itself among artistic modes of procedure**.
 
 [back to top](#contents)
 
@@ -213,7 +222,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 - In the film studio the camera has penetrated so deeply into reality that the pure aspect of the latter, uncomtaminated by the camera, emerges from a special procedure, namely being shot by a piece of photographic equipment specifically adapted for the purpose and then pasted together with other shots of the same kind. <mark>The camera-free aspect of reality is here at its most artificial.</mark>
 
 - The Magician–Surgeon Analogy
-	- The **magician matains the natural distance between himself and the patient**; to be precise, he reduces it only slightly (by virtue of laying-on of hands) while increasing it (by virtue of his authority) hugely. **The surgeon does the opposite**: he reduces the distance to the patient a great deal (by actually going inside him) and increases it only a little (through the care with which his hand moves among the latter's organ).
+	- The **magician matains the natural distance between himself and the patient**; to be precise, he reduces it only slightly (by virtue of laying-on of hands) while increasing it (by virtue of his authority) hugely. **The [[Surgeon|surgeon]] does the opposite**: he reduces the distance to the patient a great deal (by actually going inside him) and increases it only a little (through the care with which his hand moves among the latter's organ).
 		- <u>Unlike the magician, the surgeon abstains at the crucial moment from facing his invalid person to person, invading him sugically instead.</u>
 	- The **painter**, while working, **observes a natural distance from the subject**; the **cameraman**, on the other hand, **penetrates deep into the subject's tissue**. The images they both come up with are enormously different. The painter's is an **entity**, the cameraman's chopped up into a large number of **pieces**, which find their way back together by following a new law. This is why filmic portrayal of reality is of such incomparably greater significance to people today, because it continues to provide the camera-free aspect of reality that they are entitled to demand of a work of art precisely by using the camera to penetrate that reality so thoroughly.
 

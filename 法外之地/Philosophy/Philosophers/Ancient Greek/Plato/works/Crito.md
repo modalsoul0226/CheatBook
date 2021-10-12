@@ -3,7 +3,7 @@ name: Crito
 author: Plato
 translator: 王太庆
 year: 399 BC
-tags: meta/work, philosophy/ancient-greek
+tags: meta/work/book/dialogue, philosophy/ancient-greek
 aliases: [克力同, 格黎东篇]
 ---
 

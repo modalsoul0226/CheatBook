@@ -6,52 +6,13 @@
       {
         "id": "a0071ba288735b6e",
         "type": "leaf",
-        "dimension": 62.69177126917713,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
+            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
             "mode": "preview"
           }
-        },
-        "group": "6e9785de2e8d86ec"
-      },
-      {
-        "id": "bccdbba123ba435e",
-        "type": "leaf",
-        "dimension": 37.308228730822876,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 2,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.1606577807725307,
-              "close": false
-            }
-          }
-        },
-        "group": "6e9785de2e8d86ec"
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#philosophy/metaphysics",
+                "query": "tag:#meta/work/book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
+                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
+                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,19 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 282.5
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 7. Karenin's Smile.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 6. The Grand March.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 5. Lightness and Weight.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 3. Words Misunderstood.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 2. Soul and Body.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 1. Lightness and Weight.md",
+    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Afterword.md",
     "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
-    "Templates/Snippets/Untitled.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Literature/1950/Roberto Bolano/works/The Savage Detectives/characters.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Meno.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Laches.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Euthyphro.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md"
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md"
   ]
 }

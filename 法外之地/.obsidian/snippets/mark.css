@@ -88,4 +88,5 @@ sup > .internal-link {
 
 li > p {
     line-height: 2rem;
+    /* margin-bottom: 1.5rem; */
 }

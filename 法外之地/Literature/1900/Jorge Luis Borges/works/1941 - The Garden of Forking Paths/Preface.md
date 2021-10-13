@@ -10,7 +10,7 @@ translator: 王永年
 publisher: 上海译文出版社
 year: 2010
 
-tags: meta/work/book/chapter, meta/work/book/essay
+tags: meta/work/article/chapter
 created:  2021-10-12
 ---
 

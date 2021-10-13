@@ -8,44 +8,37 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Philosophy/School",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:Philosophy/Concepts",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
       "query": "tag:#meta/people/philosopher",
       "color": {
         "a": 1,
-        "rgb": 3202884
+        "rgb": 15210263
       }
     },
     {
       "query": "tag:#meta/people/writer",
       "color": {
         "a": 1,
-        "rgb": 16774912
+        "rgb": 2582227
+      }
+    },
+    {
+      "query": "tag:#meta/work/book",
+      "color": {
+        "a": 1,
+        "rgb": 16768046
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.24623742816092,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.58834134615385,
+  "lineSizeMultiplier": 0.995192307692308,
   "collapse-forces": true,
   "centerStrength": 0.350961538461538,
   "repelStrength": 9.13289835164835,
-  "linkStrength": 1,
+  "linkStrength": 0.799622252747253,
   "linkDistance": 259,
-  "scale": 0.7494748906126858,
+  "scale": 0.3112989538669279,
   "close": false
 }

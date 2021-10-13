@@ -6,7 +6,7 @@
       {
         "id": "a0071ba288735b6e",
         "type": "leaf",
-        "dimension": 77.84172661870502,
+        "dimension": 63.72202591283863,
         "state": {
           "type": "graph",
           "state": {}
@@ -16,15 +16,15 @@
       {
         "id": "948109f2157bbf35",
         "type": "leaf",
-        "dimension": 22.15827338129496,
+        "dimension": 36.27797408716137,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+            "file": "Templates/Templates.md",
             "options": {
               "collapse-filter": true,
               "search": "",
-              "localJumps": 1,
+              "localJumps": 2,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -170,15 +170,15 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+    "Templates/Untitled.md",
+    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/Chapter 2.md",
     "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
-    "Literature/1900/Jorge Luis Borges/works/1941 - Labyrinths/Labyrinths.md",
-    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Preface.md",
-    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
-    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Afterword.md",
-    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Labyrinths.md",
-    "Literature/1900/Jorge Luis Borges/Jorge Luis Borges.md",
+    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/The Book of Sand.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
     "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Afterword.md",
-    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/The Book of Sand.md"
+    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/The Woman in the Dunes.md",
+    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+    "Literature/1950/Kobo Abe/Kobo Abe.md"
   ]
 }

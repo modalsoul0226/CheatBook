@@ -23,7 +23,7 @@ aliases: [博尔赫斯]
 ## Bibliography
 
 ```dataview
-table year
-from "PATH"
-sort year asc
+table time as "year"
+from "Literature/1900/Jorge Luis Borges/works" and #meta/work/book
+sort time asc
 ```

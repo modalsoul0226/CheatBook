@@ -6,13 +6,49 @@
       {
         "id": "a0071ba288735b6e",
         "type": "leaf",
+        "dimension": 77.84172661870502,
         "state": {
-          "type": "markdown",
+          "type": "graph",
+          "state": {}
+        },
+        "group": "d45ad1638ef2162f"
+      },
+      {
+        "id": "948109f2157bbf35",
+        "type": "leaf",
+        "dimension": 22.15827338129496,
+        "state": {
+          "type": "localgraph",
           "state": {
-            "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 6. The Grand March.md",
-            "mode": "preview"
+            "file": "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
-        }
+        },
+        "group": "d45ad1638ef2162f"
       }
     ],
     "direction": "vertical"
@@ -104,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 6. The Grand March.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 6. The Grand March.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,15 +170,15 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 6. The Grand March.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 2. Soul and Body.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 1. Lightness and Weight.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 7. Karenin's Smile.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 5. Lightness and Weight.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Part 3. Words Misunderstood.md",
-    "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being/Afterword.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Task of Translator.md"
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - Labyrinths/Labyrinths.md",
+    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Preface.md",
+    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
+    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Afterword.md",
+    "Literature/1900/Jorge Luis Borges/works/1962 - Labyrinths/Labyrinths.md",
+    "Literature/1900/Jorge Luis Borges/Jorge Luis Borges.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Afterword.md",
+    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/The Book of Sand.md"
   ]
 }

@@ -1,12 +1,16 @@
 ---
-title: 
-author: 
-series:
+title:
+author:
+time: 
+
+series: 
 translator: 
-publisher:
+publisher: 
 year: 
-tags:
-aliases: 
+
+tags: 
+aliases: []
+created: 
 ---
 
 # Title

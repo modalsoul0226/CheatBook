@@ -3,29 +3,27 @@ tags:
 aliases: [alias1, alias2]
 ---
 
-# Contents
+# People
+
+## Contents
 ```toc
 ```
 
 ---
 
-# Overview
+## Overview
 
 ---
 
-# Influences
+## Concepts
 
 ---
 
-# Concepts
+## Biography
 
 ---
 
-# Biography
-
----
-
-# Bibliography
+## Bibliography
 
 ```dataview
 table year

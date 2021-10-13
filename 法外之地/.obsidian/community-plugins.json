@@ -4,5 +4,6 @@
   "obsidian-mind-map",
   "obsidian-dictionary-plugin",
   "dataview",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "templater-obsidian"
 ]

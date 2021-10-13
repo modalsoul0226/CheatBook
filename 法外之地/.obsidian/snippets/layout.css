@@ -17,12 +17,20 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.close {
+    text-align: right;
+}
+
 .dynamic-toc ul {
     list-style-type: none;
     padding-inline-start: 0;
 }
 
-li > p {
+li {
     line-height: 2rem;
     /* margin-bottom: 1.5rem; */
+}
+
+p {
+    line-height: 2rem;
 }

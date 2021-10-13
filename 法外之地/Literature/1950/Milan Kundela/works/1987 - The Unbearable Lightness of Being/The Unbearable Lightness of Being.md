@@ -20,7 +20,7 @@ created: 2021-10-11 16:02
 ---
 
 ```dataview
-list from "Literature/1950/Milan Kundela/works/The Unbearable Lightness of Being"
+list from "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being"
 sort part asc
 ```
 

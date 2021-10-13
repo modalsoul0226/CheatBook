@@ -20,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Templates/Templates.md",
+            "file": "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -43,7 +43,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 0.8542769742495052,
               "close": false
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
-    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/Chapter 2.md",
     "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
     "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/The Book of Sand.md",
+    "Templates/Untitled.md",
+    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/Chapter 2.md",
     "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
     "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Afterword.md",
     "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/The Woman in the Dunes.md",

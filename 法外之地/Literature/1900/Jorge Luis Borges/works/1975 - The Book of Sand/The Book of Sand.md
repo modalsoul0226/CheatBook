@@ -8,7 +8,7 @@ translator: 王永年
 publisher: 上海译文出版社
 year: 2010
 
-tags: meta/work/book/short-story, literature/magical-realism, literature/philosophical-fiction
+tags: meta/work/toc, meta/work/book/short-story, literature/magical-realism, literature/philosophical-fiction
 aliases: [沙之书, El libro de arena]
 created:  2021-10-12
 ---

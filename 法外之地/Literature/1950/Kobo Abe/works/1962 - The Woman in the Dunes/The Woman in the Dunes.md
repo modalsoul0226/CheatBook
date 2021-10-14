@@ -11,7 +11,7 @@ publisher: 上海译文出版社
 year: 2017
 douban: https://book.douban.com/subject/26775451/
 
-tags: meta/work/book/novel, literature/surrealism
+tags: meta/work/toc, meta/work/book/novel, literature/surrealism
 aliases: [砂女]
 created: 2021-10-12
 ---

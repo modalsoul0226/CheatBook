@@ -15,6 +15,12 @@ blockquote {
     font-size: 18px;
 }
 
+.quote-en {
+    font-family: Athelas, serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
 /* link styles */
 a {
     text-underline-offset: 3px;

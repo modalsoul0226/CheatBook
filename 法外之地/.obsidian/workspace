@@ -6,21 +6,24 @@
       {
         "id": "a0071ba288735b6e",
         "type": "leaf",
-        "dimension": 63.72202591283863,
+        "dimension": 72.98387096774194,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
+            "mode": "preview"
+          }
         },
         "group": "d45ad1638ef2162f"
       },
       {
         "id": "948109f2157bbf35",
         "type": "leaf",
-        "dimension": 36.27797408716137,
+        "dimension": 27.016129032258064,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -43,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.8542769742495052,
+              "scale": 0.7265121269616628,
               "close": false
             }
           }
@@ -75,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meta/work/book",
+                "query": "tag:#meta/work/article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 368
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -113,7 +116,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -140,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,15 +175,15 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
-    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
-    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/The Book of Sand.md",
-    "Templates/Untitled.md",
-    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/Chapter 2.md",
-    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
     "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Afterword.md",
-    "Literature/1950/Kobo Abe/works/1962 - The Woman in the Dunes/The Woman in the Dunes.md",
-    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
-    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
-    "Literature/1950/Kobo Abe/Kobo Abe.md"
+    "Erotics.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 3. Words Misunderstood.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 5. Lightness and Weight.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 6. The Grand March.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Studies on Foucault.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md"
   ]
 }

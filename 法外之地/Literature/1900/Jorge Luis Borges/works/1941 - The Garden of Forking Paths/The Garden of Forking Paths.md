@@ -8,7 +8,7 @@ translator: 王永年
 publisher: 上海译文出版社
 year: 2010
 
-tags: meta/work/book/short-story, literature/magical-realism, literature/philosophical-fiction
+tags: meta/work/toc, meta/work/book/short-story, literature/magical-realism, literature/philosophical-fiction
 aliases: [小径分叉的花园, El jardín de senderos que se bifurcan]
 created:  2021-10-12
 ---

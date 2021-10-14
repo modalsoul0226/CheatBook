@@ -8,7 +8,7 @@ translator: 许钧
 publisher: 上海译文出版社
 year: 2017
 
-tags: meta/work/book/novel, literature/magical-realism, literature/philosophical-fiction
+tags: meta/work/toc, meta/work/book/novel, literature/magical-realism, literature/philosophical-fiction
 aliases: [不可承受的生命之轻]
 created: 2021-10-11 16:02
 ---

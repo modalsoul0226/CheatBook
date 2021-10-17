@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
             "mode": "preview"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0108708555732362,
+              "scale": 0.888533661072942,
               "close": false
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,15 +175,15 @@
   },
   "active": "a0071ba288735b6e",
   "lastOpenFiles": [
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Untitled.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 3 - Politics.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Studies on Foucault.md",
     "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
     "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Afterword.md",
-    "Erotics.md",
-    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 3. Words Misunderstood.md",
-    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 5. Lightness and Weight.md"
+    "Erotics.md"
   ]
 }

@@ -95,4 +95,4 @@ created: 2021-10-15
 
 - <u>For Kant, however, such conditions were universally applicable, necessary constraints on all possible experiences, whereas for Foucault they are contingent on the particular historical situation and vary over times and domains of knowledge.</u>
 
--  Foucault says that <u>archaeology leads to only <mark>relativized ‘historical a prioris’</mark>, not the atemporal, absolute a priori truths that Kant claimed to have discovered.<u>
+- Foucault says that <u>archaeology leads to only <mark>relativized ‘historical a prioris’</mark>, not the atemporal, absolute a priori truths that Kant claimed to have discovered.</u>

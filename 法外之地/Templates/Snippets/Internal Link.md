@@ -1,0 +1,1 @@
+<a class="internal-link" href="#section title">section</a>

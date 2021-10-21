@@ -34,3 +34,7 @@ li {
 p {
     line-height: 2rem;
 }
+
+a.tag {
+    line-height: 1.5rem !important;
+}

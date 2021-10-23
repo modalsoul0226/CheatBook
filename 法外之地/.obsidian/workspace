@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a0071ba288735b6e",
+        "id": "5745155e08100246",
         "type": "leaf",
-        "dimension": 60.26133743274404,
+        "dimension": 47.04073789392775,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
             "mode": "preview"
           }
         },
-        "group": "e63abc92aae21fdb"
+        "group": "eb6bdef6ce04dd28"
       },
       {
-        "id": "381dd8786bd0e7d7",
+        "id": "361e9636548b3eed",
         "type": "leaf",
-        "dimension": 39.73866256725596,
+        "dimension": 52.959262106072245,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,12 +46,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.230207143773677,
+              "scale": 1,
               "close": false
             }
           }
         },
-        "group": "e63abc92aae21fdb"
+        "group": "eb6bdef6ce04dd28"
       }
     ],
     "direction": "vertical"
@@ -128,6 +128,22 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "cd4f6db610960bf2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "62b04c263ac11c37",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -143,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,17 +189,17 @@
     "direction": "horizontal",
     "width": 221.5
   },
-  "active": "a0071ba288735b6e",
+  "active": "5745155e08100246",
   "lastOpenFiles": [
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 9 - Modern Sex.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 10 - Ancient Sex.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
     "Templates/Templates.md",
     "Templates/Snippets/Internal Link.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 7 - Madness.md",
     "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 3 - Politics.md"
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md"
   ]
 }

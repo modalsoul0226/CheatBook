@@ -6,11 +6,11 @@
       {
         "id": "5745155e08100246",
         "type": "leaf",
-        "dimension": 47.04073789392775,
+        "dimension": 64.9500384319754,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
+            "file": "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
             "mode": "preview"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "361e9636548b3eed",
         "type": "leaf",
-        "dimension": 52.959262106072245,
+        "dimension": 35.04996156802459,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
+            "file": "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 1.0136080870395443,
               "close": false
             }
           }
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e9c8a75d45d0bcdd",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
+                "file": "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
+                "file": "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,15 +190,15 @@
   },
   "active": "5745155e08100246",
   "lastOpenFiles": [
+    "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
+    "Literature/1600/William Shakespeare/history/Henry IV/Characters List of Henry IV.md",
+    "Literature/1600/William Shakespeare/history/Henry IV/Henry IV.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 1. Lightness and Weight.md",
+    "Literature/1600/William Shakespeare/history/characters/Figures of Shakespeare's History Plays.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 9 - Modern Sex.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 10 - Ancient Sex.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
-    "Templates/Templates.md",
-    "Templates/Snippets/Internal Link.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 7 - Madness.md",
-    "Literature/1900/Jorge Luis Borges/works/1975 - The Book of Sand/Afterword.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md"
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 10 - Ancient Sex.md"
   ]
 }

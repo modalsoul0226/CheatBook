@@ -37,6 +37,8 @@ created: 2021-10-15
 
 ## Marginalization of the Subject
 
+> [[Marginalization]]
+
 - <u> The ‘<mark>history of ideas</mark>’</u> – where this means what is consciously going on in the minds of scientists, philosophers, et al. – <u>is less important than the <mark>underlying structures</mark> that form the context for their thinking.</u>
 
 -  It is not that he denies the reality or even the supreme ethical importance of the individual consciousness. But he thinks that individuals operate in a conceptual environment that determines and limits them in ways of which they cannot be aware.

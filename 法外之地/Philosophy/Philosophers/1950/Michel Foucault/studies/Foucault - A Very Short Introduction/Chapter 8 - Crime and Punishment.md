@@ -159,7 +159,7 @@ created: 2021-10-20
 
 > Border of the Society
 
-- <u>Marginalized individuals and groups are, unlike the mad, genuinely part of modern society</u>; they speak its language (even if with an accent), share many of its values, play essential social and economic roles.
+- <u>[[Marginalization|Marginalized]] individuals and groups are, unlike the mad, genuinely part of modern society</u>; they speak its language (even if with an accent), share many of its values, play essential social and economic roles.
 
 -  <u>Their lives my be significantly defined by values that are counter to those of the social mainstream or they may belong to a group whose welfare is systematically subordinated to that of mainstream groups.</u>
 

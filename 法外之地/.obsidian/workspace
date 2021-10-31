@@ -46,7 +46,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1.0136080870395443,
+              "scale": 0.9706213677120518,
               "close": false
             }
           }
@@ -191,14 +191,14 @@
   "active": "5745155e08100246",
   "lastOpenFiles": [
     "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
-    "Literature/1600/William Shakespeare/history/Henry IV/Characters List of Henry IV.md",
     "Literature/1600/William Shakespeare/history/Henry IV/Henry IV.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 7 - Madness.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 5 - Geneaology.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 4 - Archaeology.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 3 - Politics.md",
+    "Literature/1600/William Shakespeare/history/Henry IV/Characters List of Henry IV.md",
     "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface.md",
-    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md",
-    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/Part 1. Lightness and Weight.md",
-    "Literature/1600/William Shakespeare/history/characters/Figures of Shakespeare's History Plays.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 9 - Modern Sex.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 10 - Ancient Sex.md"
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/The Garden of Forking Paths.md"
   ]
 }

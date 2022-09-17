@@ -6,13 +6,13 @@
       {
         "id": "c3037983f9bf8d06",
         "type": "leaf",
-        "dimension": 65.50657385924207,
+        "dimension": 65.05312868949233,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
-            "mode": "preview",
-            "source": false
+            "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+            "mode": "source",
+            "source": true
           }
         },
         "group": "f68792c58b1173af"
@@ -20,11 +20,11 @@
       {
         "id": "7ff55ad92b8a3c35",
         "type": "leaf",
-        "dimension": 34.493426140757926,
+        "dimension": 34.946871310507674,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
+            "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -47,7 +47,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.9832475302420375,
+              "scale": 0.9570237826792709,
               "close": false
             }
           }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.0121879577637
+    "width": 324.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
+                "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
+                "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +192,9 @@
   },
   "active": "c3037983f9bf8d06",
   "lastOpenFiles": [
-    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
-    "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
     "Cinema/Andre Bazin/What is Cinema/The Ontology of the Photographic Image.md",
+    "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
+    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
     "Cinema/Andre Bazin/What is Cinema.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
     "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",

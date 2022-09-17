@@ -3,5 +3,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "livePreview": false
 }

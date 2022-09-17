@@ -65,7 +65,7 @@ created: 2021-10-21
 
 	- Such experts present as discoveries about human nature what are actually just <u>new social norms for behaviour</u>.
 
- - Of course, there is a distinction between sexuality as a [[Social Construction|social construct]] and sex as a biological reality.
+ - Of course, there is a distinction between sexuality as a [[Social Construct|social construct]] and sex as a biological reality.
 
 	- Foucault does not deny that there are, for example, undeniable physiological facts about human reproduction.
 

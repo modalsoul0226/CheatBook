@@ -64,3 +64,10 @@ sup > .internal-link {
     font-style: italic;
     /* font-family:'Palatino', serif; */
 }
+
+.label {
+    color: gray;
+    line-height: 1rem;
+    font-size: 12px;
+    text-align: center;
+}

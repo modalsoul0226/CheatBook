@@ -27,7 +27,7 @@ aliases: [The Work of Art in the Age of Mechanical Reproduction, 机械复制时
 	
 	- Neither matter nor **space** nor **time** is what, up until twenty years ago, it always was. We must be prepared for such profound changes to alter the entire technological aspect of the arts, influencing invention itself as a result.
 	
-	- Eventually, it may be, contriving to **alter the very concept of art** in the most magical fashion. (Paul Valery, <span class="title">Pieces sur l'art</span>)
+	- Eventually, it may be, contriving to **alter the very concept of art** in the most magical fashion. ([[Paul Valery]], <span class="title">Pieces sur l'art</span>)
 
 [back to top](#contents)
 

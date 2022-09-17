@@ -1,10 +1,9 @@
 [
   "calendar",
-  "obsidian-minimal-settings",
   "obsidian-mind-map",
   "obsidian-dictionary-plugin",
   "dataview",
-  "obsidian-dynamic-toc",
   "templater-obsidian",
-  "juggl"
+  "obsidian-dynamic-toc",
+  "obsidian-minimal-settings"
 ]

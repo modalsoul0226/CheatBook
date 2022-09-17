@@ -18,6 +18,7 @@ created: 2020-08-20
 # “完整电影”的神话
 > Author: [[Andre Bazin]]
 > Year: 1967
+> Part of [[What is Cinema]]
 
 ```toc
 ```

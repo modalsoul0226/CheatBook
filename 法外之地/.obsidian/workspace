@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5745155e08100246",
+        "id": "c3037983f9bf8d06",
         "type": "leaf",
-        "dimension": 64.9500384319754,
+        "dimension": 65.50657385924207,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema.md",
+            "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         },
-        "group": "eb6bdef6ce04dd28"
+        "group": "f68792c58b1173af"
       },
       {
-        "id": "361e9636548b3eed",
+        "id": "7ff55ad92b8a3c35",
         "type": "leaf",
-        "dimension": 35.04996156802459,
+        "dimension": 34.493426140757926,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema.md",
+            "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
             "options": {
               "collapse-filter": true,
               "search": "",
-              "localJumps": 2,
+              "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
               "localInterlinks": false,
@@ -47,12 +47,12 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.9706213677120518,
+              "scale": 0.9832475302420375,
               "close": false
             }
           }
         },
-        "group": "eb6bdef6ce04dd28"
+        "group": "f68792c58b1173af"
       }
     ],
     "direction": "vertical"
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#literature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201
+    "width": 324.0121879577637
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -103,14 +103,6 @@
         "type": "tabs",
         "dimension": 62.19281663516069,
         "children": [
-          {
-            "id": "9c051f14cbeedf39",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "8499d45318a8a70f",
             "type": "leaf",
@@ -131,7 +123,15 @@
             }
           },
           {
-            "id": "cd4f6db610960bf2",
+            "id": "731a05ea8c8eb62c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8848f560d83dc283",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "62b04c263ac11c37",
+            "id": "8a91eb5f7b77e502",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema.md",
+                "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +176,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema.md",
+                "file": "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -187,19 +187,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 261.5
   },
-  "active": "5745155e08100246",
+  "active": "c3037983f9bf8d06",
   "lastOpenFiles": [
+    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
     "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
     "Cinema/Andre Bazin/What is Cinema/The Ontology of the Photographic Image.md",
     "Cinema/Andre Bazin/What is Cinema.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Studies on Foucault.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Foucault - A Very Short Introduction.md",
-    "Philosophy/Philosophers/1900/Walter Benjamin/Walter Benjamin.md",
-    "Literature/1600/William Shakespeare/history/Henry IV/Part 1/Preface.md",
-    "Literature/1600/William Shakespeare/history/Henry IV/Henry IV.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 8 - Crime and Punishment.md"
+    "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
+    "Social Construction.md",
+    "There Are More Things.md",
+    "Philosophy/Philosophers/1950/Giorgio Agamben.md",
+    "Philosophy/Philosophers/1950/Michel Foucault/studies/Studies on Foucault.md"
   ]
 }

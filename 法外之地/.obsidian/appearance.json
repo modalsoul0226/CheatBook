@@ -1,9 +1,13 @@
 {
-  "baseFontSize": 25,
+  "baseFontSize": 12,
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
     "mark",
     "layout"
-  ]
+  ],
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "translucency": false
 }

@@ -18,6 +18,7 @@ created: 2020-08-20
 # 摄影影像的本体论
 > Author: [[Andre Bazin]]
 > Year: 1967
+> Part of [[What is Cinema]]
 
 ```toc
 ```

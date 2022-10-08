@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
             "mode": "preview",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+            "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.0121879577637,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,15 +191,15 @@
   },
   "active": "c3037983f9bf8d06",
   "lastOpenFiles": [
+    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
     "Cinema/Andre Bazin/What is Cinema/The Ontology of the Photographic Image.md",
     "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
-    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
     "Cinema/Andre Bazin/What is Cinema.md",
     "Philosophy/Philosophers/1950/Michel Foucault/studies/Foucault - A Very Short Introduction/Chapter 2 - Literature.md",
     "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
     "Social Construction.md",
     "There Are More Things.md",
-    "Philosophy/Philosophers/1950/Giorgio Agamben.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/studies/Studies on Foucault.md"
+    "Philosophy/Philosophers/1950/Giorgio Agamben.md"
   ]
 }

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
             "mode": "preview",
             "source": true
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+            "file": "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+                "file": "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,10 +189,10 @@
     "direction": "horizontal",
     "width": 261.5
   },
-  "active": "c3037983f9bf8d06",
+  "active": "e201c427116e9a7b",
   "lastOpenFiles": [
-    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
     "Cinema/Andre Bazin/What is Cinema/The Ontology of the Photographic Image.md",
     "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md",
     "Cinema/Andre Bazin/What is Cinema.md",

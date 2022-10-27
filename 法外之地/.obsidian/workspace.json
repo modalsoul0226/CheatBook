@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff55ad92b8a3c35",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.9570237826792709,
-              "close": false
+        "id": "c86cd829645597ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7c07fe3f71f9e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        }
-      },
-      {
-        "id": "5719ca34aba940f6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -185,10 +158,13 @@
     "direction": "horizontal",
     "width": 261.5
   },
-  "active": "5719ca34aba940f6",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d7c07fe3f71f9e1e",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
     "Reason.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",

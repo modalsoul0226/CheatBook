@@ -8,6 +8,7 @@ img {
 /* quote styles */
 blockquote {
     text-align: center;
+    padding-left: 0 !important;
 }
 
 .quote {

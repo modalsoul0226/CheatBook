@@ -41,6 +41,6 @@ In the 1930s, Benjamin’s efforts to develop a politically oriented, **material
 
 ```dataview
 table year
-from #meta/work and "Philosophy/Philosophers/1900/Walter Benjamin"
+from #meta/work and "Philosophy/Philosophers/Western Marxism/Walter Benjamin"
 sort year asc
 ```

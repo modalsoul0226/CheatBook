@@ -34,6 +34,6 @@ aliases: [Foucault, 福柯]
 
 ```dataview
 table year
-from "Literature/1950/Italo Calvino/works" and #meta/work/book 
+from "Philosophy/Philosophers/Post-structuralism/Miche\ Foucault/works" and #meta/work/book 
 sort year asc
 ```

@@ -8,16 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c07fe3f71f9e1e",
+            "id": "41d1d6b38f5a5238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "b14ef77d6a33138f"
+          }
+        ]
+      },
+      {
+        "id": "c1daaec323d68f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d2879109eff5980",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "b14ef77d6a33138f"
           }
         ]
       }
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#meta/concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 310.5
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -128,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,20 +201,17 @@
     "direction": "horizontal",
     "width": 261.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d7c07fe3f71f9e1e",
+  "active": "41d1d6b38f5a5238",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
-    "Reason.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/What is Philosophy?.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
-    "Philosophy/Philosophers/1950/Michel Foucault/Michel Foucault.md",
-    "Cinema/Andre Bazin/What is Cinema/The Evolution of the Language of Cinema.md",
-    "Cinema/Andre Bazin/What is Cinema/The Ontology of the Photographic Image.md",
-    "Cinema/Andre Bazin/What is Cinema/The Myth of Total Cinema.md"
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Phaedo.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/Giorgio Agamben.md",
+    "Philosophy/Philosophers/Post-structuralism/Michel Foucault/Michel Foucault.md",
+    "Philosophy/Philosophers/Western Marxism/Walter Benjamin/Walter Benjamin.md"
   ]
 }

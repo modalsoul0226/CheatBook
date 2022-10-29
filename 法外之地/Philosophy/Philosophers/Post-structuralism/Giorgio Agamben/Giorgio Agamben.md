@@ -25,4 +25,8 @@ aliases: [阿甘本]
 ---
 
 ## Bibliography
-
+```dataview
+table year
+from "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works" and #meta/work/book 
+sort year asc
+```

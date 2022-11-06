@@ -6,6 +6,7 @@
       {
         "id": "c86cd829645597ae",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "41d1d6b38f5a5238",
@@ -13,30 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/译后记：语音的幽灵与空域.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "b14ef77d6a33138f"
+            "group": "7ab01de8386ffb23"
           }
         ]
       },
       {
-        "id": "c1daaec323d68f68",
+        "id": "19c333b9ecfabf28",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "5d2879109eff5980",
+            "id": "514011dddaeacbe4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/译后记：语音的幽灵与空域.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -55,12 +57,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.1285962978085997,
                   "close": false
                 }
               }
             },
-            "group": "b14ef77d6a33138f"
+            "group": "7ab01de8386ffb23"
           }
         ]
       }
@@ -171,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/译后记：语音的幽灵与空域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/译后记：语音的幽灵与空域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,17 +203,17 @@
     "direction": "horizontal",
     "width": 261.5
   },
-  "active": "41d1d6b38f5a5238",
+  "active": "514011dddaeacbe4",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/What is Philosophy?.md",
-    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
-    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Timaeus.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Phaedo.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/译后记：语音的幽灵与空域.md",
+    "Literature/1900/Jorge Luis Borges/works/1941 - The Garden of Forking Paths/Preface to The Garden of Forking Paths.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/What is Philosophy?.md",
+    "Literature/1950/Milan Kundela/works/1987 - The Unbearable Lightness of Being/The Unbearable Lightness of Being.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
-    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/Giorgio Agamben.md",
-    "Philosophy/Philosophers/Post-structuralism/Michel Foucault/Michel Foucault.md",
-    "Philosophy/Philosophers/Western Marxism/Walter Benjamin/Walter Benjamin.md"
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md"
   ]
 }

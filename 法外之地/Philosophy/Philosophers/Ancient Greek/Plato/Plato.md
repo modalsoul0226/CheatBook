@@ -35,7 +35,7 @@ aliases: [柏拉图]
 |367|Second visit to Sicily|Second visit to Sicily at the invitation of Dion, uncle of Dionysius II, tyrant or dictator of Syracuse. Some have supposed that Plato had hopes of making Dionysius an ideal ruler, a philosopher-king; if so, they were soon dashed. Plato evidently had some difficulty getting home.|
 |365|**Aristotle**|Arrival in the [[Academy]] of its most eminent member, [[Aristotle]].|
 |361|Third visit to Sicily|Plato visits Sicily once more, for unknown reasons; in any caes this visit too seems to have ended badly.|
-|360s-350s|Third group of dialogues|[[Philebus]], [[Sophist]], [[Statesman]], [[Timaeus-Critias]], [[Laws]] (known to have been Ploto's last work; he may stil have been working on it when he died.)|
+|360s-350s|Third group of dialogues|[[Philebus]], [[Sophist]], [[Statesman]], [[Timaeus]], [[Critias]], [[Laws]] (known to have been Ploto's last work; he may stil have been working on it when he died.)|
 |347|**Plato dies**||
 
 ---

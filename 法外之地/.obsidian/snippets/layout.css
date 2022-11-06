@@ -38,3 +38,7 @@ p {
 a.tag {
     line-height: 1.5rem !important;
 }
+
+.right {
+    float: right;
+}

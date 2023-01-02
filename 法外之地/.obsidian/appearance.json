@@ -9,6 +9,5 @@
   "textFontFamily": "Inter",
   "interfaceFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
-  "translucency": false,
-  "accentColor": ""
+  "translucency": false
 }

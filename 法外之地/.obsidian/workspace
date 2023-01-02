@@ -6,10 +6,11 @@
       {
         "id": "7ff55ad92b8a3c35",
         "type": "leaf",
+        "dimension": 41.24168514412417,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+            "file": "Philosophy/Philosophers/Western Marxism/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -32,7 +33,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.9570237826792709,
+              "scale": 1.0308752856503287,
               "close": false
             }
           }
@@ -41,10 +42,11 @@
       {
         "id": "5719ca34aba940f6",
         "type": "leaf",
+        "dimension": 58.758314855875824,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+            "file": "Philosophy/Philosophers/Western Marxism/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
             "mode": "preview",
             "source": true
           }
@@ -155,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "file": "Philosophy/Philosophers/Western Marxism/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+                "file": "Philosophy/Philosophers/Western Marxism/Walter Benjamin/works/The Work of Art in the Age of Mechanical Reproduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +189,8 @@
   },
   "active": "5719ca34aba940f6",
   "lastOpenFiles": [
-    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Republic/Republic.md",
+    "Philosophy/Philosophers/Ancient Greek/Plato/works/Crito.md",
     "Reason.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Apology.md",
     "Philosophy/Philosophers/Ancient Greek/Plato/works/Charmides.md",

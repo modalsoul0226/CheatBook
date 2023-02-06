@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19c333b9ecfabf28",
+        "id": "1b0bcc984f577731",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc53d0530d7bbec",
+            "id": "4425cd5afe5cb767",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
+                "mode": "source",
+                "source": true
               }
             }
-          },
-          {
-            "id": "2dfbe868e109bf17",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 333.5
   },
   "right": {
     "id": "0333010bcb69c00d",
@@ -119,14 +88,6 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "731a05ea8c8eb62c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -159,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,17 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dfbe868e109bf17",
+  "active": "4425cd5afe5cb767",
   "lastOpenFiles": [
-    "Logs/journals/2023_02_04.md",
-    "Philosophy/Philosophers/Ancient Greek/Plato/Plato.md",
-    "Philosophy/Concepts/Biopolitics.md",
-    "Philosophy/Concepts/Historical Materialism.md",
+    "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/1. Introduction.md",
+    "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
+    "Mathematics/Set Theory/Elements of Set Theory/Elements of Set Theory.md",
+    "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Language and Truth/Language and Truth.md",
+    "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Word & Object.md",
     "Templates/Chapter.md",
-    "Templates/People.md",
-    "pages/contents.md",
-    "pages/Notes.md",
-    "Philosophy/Philosophers/Post-structuralism/Michel Foucault/Michel Foucault.md",
-    "journals/2023_02_04.md"
+    "Templates/Work.md",
+    "Templates/Book.md",
+    "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Language and Truth/1. Beginning with Ordinary Things.md",
+    "Templates/People.md"
   ]
 }

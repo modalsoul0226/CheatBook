@@ -1,9 +1,9 @@
 [
-  "calendar",
   "obsidian-mind-map",
   "obsidian-dictionary-plugin",
   "dataview",
   "templater-obsidian",
   "obsidian-dynamic-toc",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-latex-suite"
 ]

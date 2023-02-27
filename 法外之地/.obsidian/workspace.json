@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
-                "mode": "preview",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
+                "file": "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,15 +164,15 @@
   },
   "active": "4425cd5afe5cb767",
   "lastOpenFiles": [
-    "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/1. Introduction.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/What is Philosophy?.md",
     "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/Baby Set Theory.md",
     "Mathematics/Set Theory/Elements of Set Theory/Elements of Set Theory.md",
+    "Philosophy/Philosophers/Post-structuralism/Giorgio Agamben/works/What is Philosophy?/Experimentum Vocis.md",
+    "Mathematics/Set Theory/Elements of Set Theory/1. Introduction/1. Introduction.md",
     "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Language and Truth/Language and Truth.md",
     "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Word & Object.md",
     "Templates/Chapter.md",
     "Templates/Work.md",
-    "Templates/Book.md",
-    "Philosophy/Philosophers/Language/Willard Van Orman Quine/works/Word & Object/Language and Truth/1. Beginning with Ordinary Things.md",
-    "Templates/People.md"
+    "Templates/Book.md"
   ]
 }

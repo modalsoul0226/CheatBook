@@ -39,16 +39,6 @@ However, Aristotle shares with modern logicians a fundamental interest in metath
 
 - His primary goal is not to offer a practical guide to argumentation but to study \buwave{the properties of inferential systems} themselves.
 
-## Deduction
-
-All Aristotle's logic revolves around **deduction** (συλλογισμός/sullogismos).
-
-\begin{mydef*}{Deduction}
-    A deduction is \textbf{speech} (λόγος/logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
-\end{mydef*}
-
-Each of the "things supposed" is a **premise** (πρότασις/prótasis) of the argument, and what "result of necessity" is the **conclusion** (συμπέρασμα/sumperasma).
-
 ## The Organon
 
 Aristotle's logical works, called the **Organon** are the earliest formal study of logic that have come down to modern times:
@@ -59,6 +49,16 @@ Aristotle's logical works, called the **Organon** are the earliest formal study 
 - **The Posterior Analytics** ~ **后分析篇**, a study of **scientific demonstration**, containing Aristotle's mature views on logic.
 - **The Topics** ~ **论辩篇**, a discussion of **dialectics**.
 - **On Sphistical Refutations** ~ **辩谬篇**
+
+## Deduction
+
+All Aristotle's logic revolves around **deduction** (συλλογισμός/sullogismos).
+
+\begin{mydef*}{Deduction}
+    A deduction is \textbf{speech} (λόγος/logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
+\end{mydef*}
+
+Each of the "things supposed" is a **premise** (πρότασις/prótasis) of the argument, and what "result of necessity" is the **conclusion** (συμπέρασμα/sumperasma).
 
 ## The Square of Opposition
 
@@ -89,6 +89,10 @@ The theses concern logical relations among four logical forms:
 \end{tikzcd}\]
 
 ---
+
+## The Syllogism
+
+Syllogisms are structures of sentences each of which can meaningfully be called true or false: assertions (apophanseis), in Aristotle’s terminology. According to Aristotle, every such sentence must have the same structure: it must contain a subject (hupokeimenon) and a predicate and must either affirm or deny the predicate of the subject. Thus, every assertion is either the affirmation kataphasis or the denial (apophasis) of a single predicate of a single subject.
 
 # Chrysippus (279 ~ 206 B.C.)
 

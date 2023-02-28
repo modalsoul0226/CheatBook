@@ -12,12 +12,17 @@ header-includes:
     - \usepackage{amsmath}
     - \usepackage{ulem}    # text styles
     - \usepackage{tikz-cd} # graph
+    # multi-languages
     - \usepackage{xeCJK}   # cjk
-    - \usepackage{fontspec}
-    - \newfontfamily\greekfont[Script=Greek]{NewComputerModern10}
-    - \usepackage{polyglossia}
-    - \setdefaultlanguage{english}
+    # - \usepackage{polyglossia}
+    - \usepackage{newcomputermodern}
+    # customized widgets
     - \newcommand\buwave[1]{\raisebox{-2pt}{\uwave{\raisebox{2pt}{#1}}}}
+    - \usepackage{mdframed}
+    - \newmdtheoremenv{thm-def}{Theorem}
+    - \usepackage{tcolorbox}
+    - \tcbuselibrary{theorems}
+    - \newtcbtheorem[number within=section]{mydef}{Definition}{fonttitle=\bfseries}{th}
 CJKmainfont: Source Han Serif SC
 CJKoptions:
   - BoldFont=STKaiti
@@ -36,18 +41,20 @@ However, Aristotle shares with modern logicians a fundamental interest in metath
 
 All Aristotle's logic revolves around **deduction** (συλλογισμός).
 
-A deduction is **speech** ({\greekfont λόγος}) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
+\begin{mydef*}{Deduction}
+    A deduction is \textbf{speech} (λόγος) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
+\end{mydef*}
 
 ## The Organon
 
 Aristotle's logical works, called the **Orgranon** are the earliest formal study of logic that have come down to modern times:
 
-- **The Categories** 范畴篇, a study of the ten kinds of primitive terms.
-- **On Interpretation** 解释篇, an analysis of simple **categorical propositions** into simple terms, negation, and signs of quantity.
-- **The Prior Analytics** 前分析篇, a formal analysis of what makes a **syllogism**.
-- **The Posterior Analytics** 后分析篇, a study of **scientific demonstration**, containing Aristotle's mature views on logic.
-- **The Topics** 论辩篇, a discussion of **dialectics**.
-- **On Sphistical Refutations** 辩谬篇
+- **The Categories** ~ **范畴篇**, a study of the ten kinds of primitive terms.
+- **On Interpretation** ~ **解释篇**, an analysis of simple **categorical propositions** into simple terms, negation, and signs of quantity.
+- **The Prior Analytics** ~ **前分析篇**, a formal analysis of what makes a **syllogism**.
+- **The Posterior Analytics** ~ **后分析篇**, a study of **scientific demonstration**, containing Aristotle's mature views on logic.
+- **The Topics** ~ **论辩篇**, a discussion of **dialectics**.
+- **On Sphistical Refutations** ~ **辩谬篇**
 
 ## The Square of Opposition
 

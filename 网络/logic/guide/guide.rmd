@@ -10,16 +10,42 @@ output:
 fontsize: 12pt
 header-includes: 
     - \usepackage{amsmath}
-    - \usepackage{tikz-cd}
+    - \usepackage{ulem}    # text styles
+    - \usepackage{tikz-cd} # graph
+    - \usepackage{xeCJK}   # cjk
+    - \usepackage{fontspec}
+    - \newfontfamily{\greekfont}{NewComputerModern10}
+    - \newcommand\buwave[1]{\raisebox{-2pt}{\uwave{\raisebox{2pt}{#1}}}}
+CJKmainfont: Source Han Serif SC
+CJKoptions:
+  - BoldFont=STKaiti
+  - ItalicFont=STKaiti
 ---
 
-\tableofcontents
+# Aristotle 亚里士多德 (384 ~ 322 B.C.)
 
-# A History of Logic
+- The rise of modern formal logic following the work of Frege and Russell brought with it a recognition of the many serious limitations of Aristotle’s logic.
+- However, Aristotle shares with modern logicians a fundamental interest in metatheory:
+  - His primary goal is not to offer a practical guide to argumentation but to study \buwave{the properties of inferential systems} themselves.
 
-## Aristotle (384 ~ 322 B.C.)
+## Deduction
 
-### The Square of Opposition
+All Aristotle's logic revolves around **deduction** (\greekfont{συλλογισμός}).
+
+fbox{A deduction is speech (\greekfont{λόγος}) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)}
+
+## The Organon
+
+Aristotle's logical works, called the **Orgranon** are the earliest formal study of logic that have come down to modern times:
+
+- **The Categories** 范畴篇, a study of the ten kinds of primitive terms.
+- **On Interpretation** 解释篇, an analysis of simple **categorical propositions** into simple terms, negation, and signs of quantity.
+- **The Prior Analytics** 前分析篇, a formal analysis of what makes a **syllogism**.
+- **The Posterior Analytics** 后分析篇, a study of **scientific demonstration**, containing Aristotle's mature views on logic.
+- **The Topics** 论辩篇, a discussion of **dialectics**.
+- **On Sphistical Refutations** 辩谬篇
+
+## The Square of Opposition
 
 The square of opposition is a group of theses embodied in a diagram.
 The theses concern logical relations among four logical forms:
@@ -46,12 +72,14 @@ The theses concern logical relations among four logical forms:
 	\arrow[no head, from=5-6, to=3-4]
 	\arrow["{\text{contraries}}"{description}, no head, from=1-2, to=1-6]
 \end{tikzcd}\]
-<!-- * ![square of opposition](images/square-of-oppositions.jpg) -->
 
+---
 
-## Chrysippus (279 ~ 206 B.C.)
+# Chrysippus (279 ~ 206 B.C.)
 
-### Connective Logic
+Aristotelian logic was what was transmitted to the Arabic and the Latin medieval traditions, while the works of Chrysippus have not survived.
+
+## Connective Logic
 
 * $\cap, \quad \wedge, \quad \rightarrow$
 

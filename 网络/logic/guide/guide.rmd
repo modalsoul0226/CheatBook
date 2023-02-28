@@ -12,9 +12,11 @@ header-includes:
     - \usepackage{amsmath}
     - \usepackage{ulem}    # text styles
     - \usepackage{tikz-cd} # graph
-    # multi-languages
     - \usepackage{xeCJK}   # cjk
+    # - \usepackage{fontspec}
+    # - \newfontfamily\greekfont[Script=Greek]{NewComputerModern10}
     # - \usepackage{polyglossia}
+    # - \setdefaultlanguage{english}
     - \usepackage{newcomputermodern}
     # customized widgets
     - \newcommand\buwave[1]{\raisebox{-2pt}{\uwave{\raisebox{2pt}{#1}}}}
@@ -39,15 +41,17 @@ However, Aristotle shares with modern logicians a fundamental interest in metath
 
 ## Deduction
 
-All Aristotle's logic revolves around **deduction** (συλλογισμός).
+All Aristotle's logic revolves around **deduction** (συλλογισμός/sullogismos).
 
 \begin{mydef*}{Deduction}
-    A deduction is \textbf{speech} (λόγος) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
+    A deduction is \textbf{speech} (λόγος/logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
 \end{mydef*}
+
+Each of the "things supposed" is a **premise** (πρότασις/prótasis) of the argument, and what "result of necessity" is the **conclusion** (συμπέρασμα/sumperasma).
 
 ## The Organon
 
-Aristotle's logical works, called the **Orgranon** are the earliest formal study of logic that have come down to modern times:
+Aristotle's logical works, called the **Organon** are the earliest formal study of logic that have come down to modern times:
 
 - **The Categories** ~ **范畴篇**, a study of the ten kinds of primitive terms.
 - **On Interpretation** ~ **解释篇**, an analysis of simple **categorical propositions** into simple terms, negation, and signs of quantity.

@@ -14,7 +14,9 @@ header-includes:
     - \usepackage{tikz-cd} # graph
     - \usepackage{xeCJK}   # cjk
     - \usepackage{fontspec}
-    - \newfontfamily{\greekfont}{NewComputerModern10}
+    - \newfontfamily\greekfont[Script=Greek]{NewComputerModern10}
+    - \usepackage{polyglossia}
+    - \setdefaultlanguage{english}
     - \newcommand\buwave[1]{\raisebox{-2pt}{\uwave{\raisebox{2pt}{#1}}}}
 CJKmainfont: Source Han Serif SC
 CJKoptions:
@@ -24,15 +26,17 @@ CJKoptions:
 
 # Aristotle 亚里士多德 (384 ~ 322 B.C.)
 
-- The rise of modern formal logic following the work of Frege and Russell brought with it a recognition of the many serious limitations of Aristotle’s logic.
-- However, Aristotle shares with modern logicians a fundamental interest in metatheory:
-  - His primary goal is not to offer a practical guide to argumentation but to study \buwave{the properties of inferential systems} themselves.
+The rise of modern formal logic following the work of Frege and Russell brought with it a recognition of the many serious limitations of Aristotle’s logic.
+
+However, Aristotle shares with modern logicians a fundamental interest in metatheory:
+
+- His primary goal is not to offer a practical guide to argumentation but to study \buwave{the properties of inferential systems} themselves.
 
 ## Deduction
 
-All Aristotle's logic revolves around **deduction** (\greekfont{συλλογισμός}).
+All Aristotle's logic revolves around **deduction** (συλλογισμός).
 
-fbox{A deduction is speech (\greekfont{λόγος}) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)}
+A deduction is **speech** ({\greekfont λόγος}) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so. (\textit{Prior Analytics} I.2, 24b19-20)
 
 ## The Organon
 

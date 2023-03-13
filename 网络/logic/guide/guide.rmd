@@ -7,6 +7,9 @@ date: 02/26/2023
 output:
    pdf_document:
        latex_engine: xelatex
+# page setup
+classoption: a4paper
+geometry: "left=3cm,right=3cm,top=1.5cm,bottom=3cm"
 fontsize: 12pt
 header-includes: 
     - \usepackage{amsmath}
@@ -18,10 +21,16 @@ header-includes:
     # - \usepackage{polyglossia}
     # - \setdefaultlanguage{english}
     - \usepackage{newcomputermodern}
+    # line spacing
+    - \usepackage{setspace}
+    - \setstretch{1.15}
     # customized widgets
-    - \newcommand\buwave[1]{\raisebox{-2pt}{\uwave{\raisebox{2pt}{#1}}}}
+    # underline
+    - \newcommand\highlight[1]{\raisebox{-2pt}{\uline{\raisebox{2pt}{#1}}}}
+    # theorem 1
     - \usepackage{mdframed}
     - \newmdtheoremenv{thm-def}{Theorem}
+    # theorem 2
     - \usepackage{tcolorbox}
     - \tcbuselibrary{theorems}
     - \newtcbtheorem[number within=section]{mydef}{Definition}{fonttitle=\bfseries}{th}
@@ -37,7 +46,7 @@ The rise of modern formal logic following the work of Frege and Russell brought 
 
 However, Aristotle shares with modern logicians a fundamental interest in metatheory:
 
-- His primary goal is not to offer a practical guide to argumentation but to study \buwave{the properties of inferential systems} themselves.
+- His primary goal is not to offer a practical guide to argumentation but to study \highlight{the properties of inferential systems} themselves.
 
 ## The Organon
 
@@ -60,7 +69,12 @@ All Aristotle's logic revolves around **deduction** (συλλογισμός/sull
 
 Each of the "things supposed" is a **premise** (πρότασις/prótasis) of the argument, and what "result of necessity" is the **conclusion** (συμπέρασμα/sumperasma).
 
-## The Square of Opposition
+
+## The Syllogism
+
+Syllogisms are structures of sentences each of which can meaningfully be called true or false: **assertions** (ἀποφανσεις/apophanseis), in Aristotle’s terminology. According to Aristotle, every such sentence must have the same structure: it must contain a **subject** (ὑποκειμενον/hupokeimenon) and a **predicate** and must either affirm or deny the predicate of the subject. Thus, every assertion is either the **affirmation** (καταφασις/kataphasis) or the **denial** (ἀποφασις/apophasis) of \highlight{a single predicate of a single subject}.
+
+### The Square of Opposition
 
 The square of opposition is a group of theses embodied in a diagram.
 The theses concern logical relations among four logical forms:
@@ -89,10 +103,6 @@ The theses concern logical relations among four logical forms:
 \end{tikzcd}\]
 
 ---
-
-## The Syllogism
-
-Syllogisms are structures of sentences each of which can meaningfully be called true or false: assertions (apophanseis), in Aristotle’s terminology. According to Aristotle, every such sentence must have the same structure: it must contain a subject (hupokeimenon) and a predicate and must either affirm or deny the predicate of the subject. Thus, every assertion is either the affirmation kataphasis or the denial (apophasis) of a single predicate of a single subject.
 
 # Chrysippus (279 ~ 206 B.C.)
 

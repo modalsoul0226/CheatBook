@@ -40,6 +40,8 @@ CJKoptions:
   - ItalicFont=STKaiti
 ---
 
+\tableofcontents
+
 # Aristotle 亚里士多德 (384 ~ 322 B.C.)
 
 The rise of modern formal logic following the work of Frege and Russell brought with it a recognition of the many serious limitations of Aristotle’s logic.

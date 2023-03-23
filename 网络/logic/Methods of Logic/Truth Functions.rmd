@@ -1,0 +1,51 @@
+---
+title: Part I. Truth Functions
+author: W. V. Quine
+published: 1950
+tags: meta/philosophy/logic
+date: 03/22/2023
+output:
+   pdf_document:
+       latex_engine: xelatex
+# page setup
+classoption: a4paper
+geometry: "left=3cm,right=3cm,top=1.5cm,bottom=3cm"
+fontsize: 12pt
+header-includes: 
+    - \usepackage{amsmath}
+    - \usepackage{ulem}    # text styles
+    - \usepackage{tikz-cd} # graph
+    # line spacing
+    - \usepackage{setspace}
+    - \setstretch{1.15}
+    # underline
+    - \newcommand\highlight[1]{\raisebox{-1.5pt}{\uline{\raisebox{1.5pt}{#1}}}}
+    # theorem 1
+    - \usepackage{mdframed}
+    - \newmdtheoremenv{thm-def}{Theorem}
+    # theorem 2
+    - \usepackage{tcolorbox}
+    - \tcbuselibrary{theorems}
+    - \newtcbtheorem[number within=section]{mydef}{Definition}{fonttitle=\bfseries}{th}
+---
+
+# Part I. Truth Functions
+
+\tableofcontents
+
+## 1. Negation, Conjunction, and Alternation
+
+### 1.1 Statement
+
+The peculiarity of **statements** which sets them apart from other linguistic forms is that they admit of truth and falsity, and may hence be significantly affirmed or denied. To deny a statement is to affirm another statement, known as the **negation** or **contradictory** of the first.
+
+### 1.2 Negation and Conjunction
+
+\begin{mydef*}{Negation and Conjunction}
+    The negation of a true statement is false; the negation of a false statement is true; a conjunction of statements all of which are true is true, and a conjunction of statements not all of which are true is false.
+\end{mydef*}
+
+Conjunction is **associative**: \highlight{internal grouping} is immaterial in $pqr$, just as in sum and product of arithmetic.
+
+Another respect in which conjunction resembles addition and multiplication, and differs from division, is that it is **commutative**: \highlight{order is immaterial}, i.e. there being no need to distinguish between $pq$ and $qp$.
+

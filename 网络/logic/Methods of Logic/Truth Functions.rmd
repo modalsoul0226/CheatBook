@@ -29,8 +29,6 @@ header-includes:
     - \newtcbtheorem[number within=section]{mydef}{Definition}{fonttitle=\bfseries}{th}
 ---
 
-# Part I. Truth Functions
-
 \tableofcontents
 
 ## 1. Negation, Conjunction, and Alternation
@@ -48,4 +46,83 @@ The peculiarity of **statements** which sets them apart from other linguistic fo
 Conjunction is **associative**: \highlight{internal grouping} is immaterial in $pqr$, just as in sum and product of arithmetic.
 
 Another respect in which conjunction resembles addition and multiplication, and differs from division, is that it is **commutative**: \highlight{order is immaterial}, i.e. there being no need to distinguish between $pq$ and $qp$.
+
+### 1.3 Disjunction
+
+Latin has distinct words for the two senses of 'or': **vel** for the nonexclusive and **aut** for the exclusive.
+
+In modern logic it is customary to write $\vee$, reminiscent of **vel**, for 'or' in the nonexclusive sense: $p \vee q$. It is this mode of compounding statements, and only this, that is called **alternation**.
+
+\begin{mydef*}{Disjunction}
+    The meaning of alternation, then, is given by this rule: An \textbf{alternation} is true if at least one of the components is true, and otherwise false.
+\end{mydef*}
+
+The alternation sign $\vee$ dates from Whitehead and Russell; for conjunction, some invert the alternation sign for the purpose, and some, following Hilbert, use &.
+
+### 1.4 De Morgan's Law
+
+\begin{align*}
+    \neg (pq) & \iff \bar{p} \vee \bar{q} \\
+    \neg (p \vee q) & \iff \bar{p} \wedge \bar{q}
+\end{align*}
+
+## 2. Truth Functions
+
+It is convenient to speak of truth and falsity as truth value [...] This state of affairs is expressed by speaking of negation, conjunction, and  alternation as truth functions.
+
+In general, a compound is called a truth function of its components if its truth value is determined in all cases by the truth values of the components.
+
+## 3. The Conditional
+
+Besides 'and' and 'or', another connective of statements which plays an important part in everyday language is 'if-then'. A statement of the form 'if $p$ then $q$' is called a **conditional.** The component in the position of $p$ here is called the **antecedent** of the conditional, and the component in the position of $q$ is called the **consequent**.
+
+When in particular the conditional is construed as the material conditional $p \to q$ the corresponding biconditional is called the **material biconditional** and written $p \iff q$.
+
+[...] At last, I have switched to Hilbert's $\to$, which is now widely used and is more suggestive. Conformably, I have switched to $\iff$ for the biconditional. My sign for this in previous editions, following Whitehead and Russell, was $\equiv$.
+
+## 4. Groupings
+
+### 4.1 Dots
+
+Dots are reinforcements. They may be thought of as a systematic counterpart of the practice in ordinary language, noted above, of inserting 'else', 'also', etc.
+
+To begin with, if we want to convey the meaning $p(q \vee r)$ and thus create a greater break at the point of conjunction than at the point of alternation, we shall insert a dot at the point of conjunction thus: $$p . q \vee r$$
+
+For $(p \vee q)r$ similarly we shall write $p \vee q . r$, for $p(q \to r)$ we shall write $p . q \to r$ etc. 
+
+When we want to create a still greater break, we shall use the double dot ':'. What might be written fully in terms of parentheses as:
+
+\begin{equation} \label{grouping-parent}
+    s \vee (p(q \to r) \iff (p \vee q)r)t
+\end{equation}
+
+e.g., is written with help of dots as: 
+
+\begin{equation} \label{grouping-dots}
+    s \vee : p . q \to r : \iff : p \vee q.r : t
+\end{equation}
+
+Parentheses will continue to be used to enclose a compound governed by a negation sign; the notations $\neg (pq)$, $\neg (p \vee q)$ etc. thus persist unchange.
+
+### 4.2 Łukasiewicz Notation (Polish Notation)
+
+We need no parentheses or other indicators of grouping if, with Łukasiewicz, we write each connective before the expressions that it connects instead of writing it between. His notation for $pq$, $p \vee q$, $p \to q$, $p \iff q$, and $\bar{p}$ were K$pq$, A$pq$, C$pq$, E$pq$, and N$p$. The alternation ($\ref{grouping-parent}$) above becomes this:
+
+\begin{equation} \label{grouping-polish}
+    \text{A}s\text{KEK}p\text{C}qr\text{KA}pqrt
+\end{equation}
+
+Notice that the above groupign is unique and inevitable.
+
+Here's a simple test, due also to Łukasiewicz. Counting from the beginning of the formula, keep score of the occurrences of statement letters ($p$, $q$, etc.) and of two-place connectives ('C', 'A', 'K', 'E'). The occurrences of statement letters outnumber the occurrences of connectives when you reach the end of a proper formula, and not before.
+
+This notation commands theoretical interest, and it has proved useful in the \highlight{programming of computers}.
+
+## 5. Truth Value Analysis
+
+Hereafter the letters $p$, $q$ etc., and all truth functions of them will be called **schemata** (singular: schema). More specific they will be called **truth-functional schemata**.
+
+By **interpretation** of the letter $p$ (or $q$ etc.) may be meant specification of an actual statement which is to be imagined in place of the letter. By interpretation of $p$ may also be meant simply specification of a truth value for $p$.
+
+The process whereby $\neg(\top\bot\vee\bar{\top}\bar{\bot})$ was reduced to $\top$ will be called **resolution**.
 

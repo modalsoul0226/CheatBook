@@ -11,7 +11,7 @@ output:
 classoption: a4paper
 geometry: "left=3cm,right=3cm,top=1.5cm,bottom=3cm"
 fontsize: 12pt
-header-includes: 
+header-includes:
     - \usepackage{amsmath}
     - \usepackage{ulem}    # text styles
     - \usepackage{tikz-cd} # graph

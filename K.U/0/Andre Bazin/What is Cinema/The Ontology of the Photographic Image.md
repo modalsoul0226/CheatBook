@@ -10,7 +10,7 @@ translator: 崔君衍
 publisher: 江苏教育出版社
 year: 2005
 
-tags: meta/work/book 
+tags: meta/work/book
 aliases: [摄影影像的本体论]
 created: 2020-08-20
 ---

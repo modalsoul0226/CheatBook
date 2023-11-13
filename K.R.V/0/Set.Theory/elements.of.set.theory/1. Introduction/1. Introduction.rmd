@@ -13,7 +13,19 @@ header-includes:
    - \usepackage{amsmath}
    - \usepackage{amssymb}
    - \usepackage{tikz-cd} # graph
+   - \usepackage{titletoc} # toc
    - \usepackage{xeCJK}   # cjk
+   # # make h2 bold
+   # - \titlecontents{subsection}[2em]
+   #      {\bfseries\normalfont}
+   #      {}{}{}[]
+   # group h3 to a single paragraph
+   - \titlecontents*{subsection}[1.9em]
+        {\small}
+        {\thecontentslabel. }
+        {}
+        {}
+        [\,/\,][.]
 CJKmainfont: Source Han Serif SC
 CJKoptions:
   - BoldFont=STKaiti
@@ -22,13 +34,9 @@ CJKoptions:
 
 \tableofcontents
 
-# $\S.1$ Introduction
+# 1.1 Baby Set Theory
 
-> Part of [Elements of Set Theory](../Elements of Set Theory.md)
-
-## 1.1 Baby Set Theory
-
-### 1.1.1 Principle of Extensionality
+## Principle of Extensionality
 
 If two sets have exactly the same members, then they are equal.
 
@@ -36,73 +44,69 @@ If $A$ and $B$ are sets such that for every object $t$, \[
     t \in A \quad\text{iff}\quad t \in B,
 \] then $A=B$.
 
-### 1.1.2 Empty Set
+## Empty Set
 
-The set ∅ has no members at all. It is **the only set with no members**, since *extensionality* tells us that any two such sets must coincide.
+The set $\emptyset$ has no members at all. It is **the only set with no members**, since *extensionality* tells us that any two such sets must coincide.
 
-### 1.1.3 Pair Set
+## Pair Set
 
 For any objects $x$ and $y$, we can form the pair set $\{x,y\}$ having just the members $x$ and $y$. Observe that $\{x,y\}=\{y,x\}$, as both sets have exactly the same members.
 
-### 1.1.4 Union
+## Union
 
 The **union** of sets $A$ and $B$ is the set $A\cup B$ of all things that are members of $A$ or $B$ (or both).
 
-### 1.1.5 Intersection
+## Intersection
 
-The **intersection** of $A$ and $B$ is the set $A\cap B$ of all things that are members of both $A$ and $B$.
+The **intersection** of $A$ and $B$ is the set $A\cap B$ of all things that are members of both $A$ and $B$. Set $A$ and $B$ are said to be **disjoint** when they have no common memebers, i.e., when $A \cap B=∅$.
 
-Set $A$ and $B$ are said to be **disjoint** when they have no common memebers, i.e., when $A \cap B=∅$.
+## Subset
 
-### 1.1.6 Subset
+A set $A$ is said to be a \textit{subset} of a set $B$ iff all the members of $A$ are also memebers of $B$. Note that **any set is a subset of itself. $\emptyset$ is a subset of every set**. If $A \subseteq B$, then we also say that $A$ is \textit{included} in $B$ or that $B$ contains \textit{A}.
 
-A set $A$ is said to be a \textit{subset} of a set $B$ iff all the members of $A$ are also memebers of $B$.
+## Power Set
 
-Note that any set is a subset of itself. ∅ is a subset of every set.
-
-If $A \subseteq B$, then we also say that $A$ is \textit{included} in $B$ or that $B$ \textit{A}.
-
-### 1.1.7 Power Set
-
-Any set $A$ will have *one or more subsets*. If $A$ has $n$ elements, then $A$ has $2^{n}$ subsets.
-
-A power set of $A$ is the set of all subsets of $A$:
+Any set $A$ will have **one or more subsets**. If $A$ has $n$ elements, then $A$ has $2^{n}$ subsets. A *power set* of $A$ is the set of all subsets of $A$:
 \[
-    \mathcal{P} A = \{x|x \subseteq A\}
+    \mathcal{P} A = \{x\,|\,x \subseteq A\}
 \]
 
 > Numerology: A positive integer is \textit{perfect} if it equals the sum of its smaller divisors, e.g. $6=1+2+3$. The first four perfect numbers are 6, 28, 496, and 8128.
 
-## 1.2 Sets – An Informal View
+# 1.2 Sets – An Informal View
 
 Fig. 3. The ordinals are the backbone of the universe: $V_{α+1} = 𝒫 V_{α}$.
 
-## 1.3 Classes
+# 1.3 Classes
 
-- Collection of sets:
-- \textit{The Zermelo-Fraenkel} alternative: The collection of all sets need have no ontological status at all, and we need never speak of it.
-- \textit{The von Neumann-Bernays} alternative: The collection of all sets can be called a \textit{class}. Similarly any other collection of sets can be called a class. Informally, a class $A$ is a set if it it included in some level $V_{α}$ of our hierarchy. Otherwise it is not a set, and can never be a member of a set.
+Collection of sets:
+\begin{itemize}
+	\item \textit{The Zermelo-Fraenkel} alternative: The collection of all sets need have no ontological status at all, and we need never speak of it.
+	\item \textit{The von Neumann-Bernays} alternative: The collection of all sets can be called a \textit{class}. Similarly any other collection of sets can be called a class. Informally, a class $A$ is a set if it it included in some level $V_{α}$ of our hierarchy. Otherwise it is not a set, and can never be a member of a set.
+\end{itemize}
 
-## 1.4 Axiomatic Method
+# 1.4 Axiomatic Method
 
 Mathematical objects (e.g. numbers and differentiable functions) can be defined to be certain sets. And the theorems of mathematics (e.g. fundamental theorem of calculus) then can be viewed as statements about sets.
 
-Our axiom system begins with two \textit{primitive notions}, the concept of \textbf{set} and \textbf{member}. In terms of these concepts we will define others, but *the primitive notions remain undefined*.
+Our axiom system begins with two \textit{primitive notions}, the concept of \textbf{set} and \textbf{member}. In terms of these concepts we will define others, but **the primitive notions remain undefined**.
 
 Then we adopt a list of \textit{axioms} concerning the primitive notions, and proceed to derive sentences that are \textit{logical consequences / theorems} of the axioms.
 
-A sentence σ is said to be a logical consequence of the aximos if **any** assignment of meaning to the undefined notions of set and member making the axioms true also makes σ true.
+A sentence $\sigma$ is said to be a logical consequence of the aximos if **any** assignment of meaning to the undefined notions of set and member making the axioms true also makes $\sigma$ true.
 
-> If σ is a logical consequence of a list of axioms, there is a finitely long \textit{proof} of σ from the axioms under a reasonable definition of "proof."
+> If $\sigma$ is a logical consequence of a list of axioms, there is a finitely long \textit{proof} of $\sigma$ from the axioms under a reasonable definition of "proof."
 
-## 1.5 Historical Notes
+# 1.5 Historical Notes
 
-- Cantor
-- Frege
-- Russell
-- Ernst Zermelo
-- Abraham Fraenkel
-- von Neumann
-- Paul Bernays
-- Godel
+\begin{itemize}
+	\item Cantor
+	\item Frege
+	\item Russell
+	\item Ernst Zermelo
+	\item Abraham Fraenkel
+	\item von Neumann
+	\item Paul Bernays
+	\item Godel
+\end{itemize}
 

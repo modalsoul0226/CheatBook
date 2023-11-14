@@ -1,4 +1,11 @@
 .vscode
 .DS_Store
-*.log
+
+.out/*
+!.out/.gitkeep
+
+.meta/logs/*
+!.meta/logs/.gitkeep
+
+.R*
 
